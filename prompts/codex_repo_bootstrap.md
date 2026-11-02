@@ -1,0 +1,6 @@
+# Paste into Codex — Private Repo Bootstrap
+Act as owner-side technical supervisor. Read `INDEX.md`, `repo.md`, `AI.md`, `AGENTS.md`, `docs/decisions.md`, `docs/security.md`, `docs/architecture.md`, `docs/validation.md`. First perform a **non-mutating audit**: current local dir, git status, availability of gh CLI, GitHub login, GitHub owner/account type and plan, exact six collaborators' verified GitHub usernames, branch protection capabilities. Summarize missing details. Do NOT create repo, invite users, push or modify GitHub settings without explicit user authorization.
+
+When owner approves, create PRIVATE `carbonmind-ai` with README.md, repo charter, root AGENTS.md and AI.md, decision records, PR template, CI starter and exactly six member branches named in repo.md. Configure required PR/checks plus verified owner-only merge and per-member branch pushes only if actually supported by plan/account. Test from a non-owner account. If impossible, stop and document exact unmet permission guarantee and upgrade/alternative. No fake success reports.
+
+Return URL only if verified; list each branch, applied rules, user permissions, checks and tests with evidence. Keep token budget by saving `HANDOFF.md` and next steps.

@@ -1,0 +1,9 @@
+# SAMPLE ONLY. Replace placeholder usernames with verified GitHub handles before enabling.
+# CODEOWNERS can request approval but DOES NOT alone ensure only the repo owner can merge.
+# /apps/web/ @HASSAN_GITHUB_HANDLE
+# /services/api/ @HASSAN_GITHUB_HANDLE @ZIAD_KISHK_GITHUB_HANDLE
+# /services/ml/vision/ @KARIM_GITHUB_HANDLE
+# /services/ml/energy/ @ADHAM_GITHUB_HANDLE
+# /services/ml/forecast/ @AHMED_GITHUB_HANDLE
+# /packages/science/ @ZIAD_ZEINY_GITHUB_HANDLE @AHMED_GITHUB_HANDLE
+# /docs/security.md @ZIAD_KISHK_GITHUB_HANDLE

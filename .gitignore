@@ -1,0 +1,26 @@
+# Secrets and local development
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+node_modules/
+.next/
+out/
+dist/
+__pycache__/
+.pytest_cache/
+.venv/
+coverage/
+*.log
+.DS_Store
+# Local personal agent notes (shared root AI.md remains tracked)
+members/*.AI.local.md
+# Real customer data and large training artifacts must be in approved secure storage
+data/raw/
+datasets/private/
+artifacts/models/
+*.pt
+*.pth
+*.onnx

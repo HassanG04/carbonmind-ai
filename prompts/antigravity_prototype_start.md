@@ -1,0 +1,6 @@
+# Paste into Google Antigravity — Prototype Initiation
+You are implementing the TEMPORARY CarbonMind AI enterprise frontend prototype. First read `INDEX.md`, `prototype.md`, `docs/decisions.md`, `docs/architecture.md`, `docs/contracts.md`, and `docs/security.md` from this workspace. If they do not exist, ask for file access rather than guess.
+
+Do not create real backend services, train models, integrate Gemini, consume paid APIs, use corporate data, or silently deploy. Implement Next.js+TypeScript app with all routes and interactions in prototype.md. Mark all synthetic values visibly. Camera permissions only on user action; device detection must say SIMULATED. Forecasts and recommendations must expose assumptions. Build and lint, run smoke tests where supported. Keep a `TASK.md` and `HANDOFF.md`; work in bounded stages and write the next action before context exhaustion.
+
+Start by proposing a route/component/file plan and a compact task list. Implement the first vertical slice only after checking existing project state. Report commands with actual stdout/stderr summary, list files changed and pending risks. Deployment requires owner's explicit approval and eligible Vercel configuration. Do not claim deployment without verified URL.

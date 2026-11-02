@@ -1,0 +1,15 @@
+name: docs-check
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  docs-contract-check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate required instructions, links and original reference
+        run: python scripts/check_docs.py
+# Implement app/science/security checks before enabling corresponding required statuses.

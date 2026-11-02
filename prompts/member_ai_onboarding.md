@@ -1,0 +1,4 @@
+# Paste into Member's Agent — Create Personal AI Context
+I am working on CarbonMind AI as `<MEMBER_NAME>` on `team/<MEMBER_NAME>`. Read project `AI.md`, `AGENTS.md`, `members/<MEMBER_NAME>.md`, `docs/architecture.md`, `docs/contracts.md`, `docs/security.md`, `docs/validation.md` and `docs/AI-member-template.md`. Inspect live repo state. Draft `members/<MEMBER_NAME>.AI.local.md` that contains only confirmed skills, ownership, permitted file areas, current task, tests and blockers. Do NOT invent prior implementation, unknown member niche, logins, deployment or data availability.
+
+Recommend the first minimal issue, needed collaborators and specific tests. Do not execute external operations until authorized. Do not overwrite root `AI.md`. Update personalized context as durable project note whenever facts change.

@@ -1,0 +1,2 @@
+# Paste into Codex — Owner Merge Recommendation
+Read PR diff and branch protection settings (if authorized), all linked tasks, CI check results, reviews, security notes, calculation provenance and migrations. Provide concise GO/NO-GO recommendation with proof, missing evidence and exact owner-only actions required. NO claims that Codex itself enforces policy. Only authenticated repository owner with correct permissions merges after verifying protection, reviews, CI and coverage. No token-sharing or direct push to main.

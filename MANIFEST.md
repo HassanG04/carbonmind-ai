@@ -1,0 +1,46 @@
+# Included Files & Checksums
+
+| File | Bytes | SHA-256 |
+|---|---:|---|
+| `.env.example` | 198 | `4ed87345a18c3364e8458df63459a34b3c28880e9fde818f807aca54d220a584` |
+| `.github/CODEOWNERS.sample` | 530 | `151e0095546dcb3c81c0cb19417552031768c4e37e4ed977b4e091c98cd4b0a3` |
+| `.github/PULL_REQUEST_TEMPLATE.md` | 816 | `94b213b6a64c4e59107040e1533e23c7516512c5d4ad1ecd802fd220134d543c` |
+| `.github/workflows/docs-check.yml` | 1436 | `a45edad12290d94d911387a264b2e27dd4456c0f3cca94d53c6bb737515ab8b3` |
+| `.gitignore` | 405 | `292ff79d853df7a6e3752fbbb441a93e324f0c480ee693b71cfb050040f650af` |
+| `AGENTS.md` | 1504 | `c4f19d34c86ea93f62e43d091b324280b59184929e15feabf07bbe9d42ba1620` |
+| `AI.md` | 3368 | `4cb1c73dd91a6ac5fde1a13c6a6aa747192d8e6e3ab5239cf7f959f1057ed8b9` |
+| `INDEX.md` | 3562 | `e3814fe3472b3430aad756379a44f443d715e207b41c1be7621c2ac49424c410` |
+| `README.md` | 1370 | `8579db945ba69755e6de41511647c6d92abf68bf511ee49a68c87d09c8cf27c8` |
+| `docs/AI-member-template.md` | 1050 | `50b2adae6a599cb35b1f912691f01f7486022ec71dac728361d4d28839cb70fd` |
+| `docs/HANDOFF.template.md` | 577 | `a0786fe578d3c7f227ed1dee9eb43ae389ed1b485e7fe196d6a8d0f7d8e8bc10` |
+| `docs/TASK.template.md` | 502 | `4e08eb721feef8dd6aa1b1ae9e4d73e93a2046136f0ce41d33f174433296e595` |
+| `docs/agent_delivery_workflow.md` | 2693 | `08527f3e51858dc505869ed19e869db5dbead7d6b1754ba747f04e0c8abffb80` |
+| `docs/architecture.md` | 3575 | `ca470bdecfade54a9d4311cacec9ce131a2a1d93750857ab6c3c518f1f70b7cc` |
+| `docs/contracts.md` | 3414 | `9089468a7dadd81c8a5576e7cd1f4e253025ab8be58cde21a25689d37ce6988f` |
+| `docs/decision-log.md` | 1302 | `642cd1d80d02ba90d23099bdd1d2e949145cc21a81d8c6bad170ced52e233e15` |
+| `docs/decisions.md` | 5164 | `7ddbdbd5e60adc0e73b305046956beb959c37a83090de400801323f41a163e9d` |
+| `docs/hardware_optional.md` | 2450 | `a4f77ae7dd1420765269a5bc746b91caef530bea3a7220580a8bb25e221145cd` |
+| `docs/model_plan.md` | 2992 | `b8c95ada9abba35081d5dbc8115f8aa97564cf7d49086ac7921e5fd3f51a7118` |
+| `docs/roadmap.md` | 2908 | `75f5b20941b3d1e52639b785bc086ae7d7a40f318a50f2bd390eff6cf6e4dabb` |
+| `docs/scientific_engine.md` | 4962 | `61b1f239960d486247a97da56e2e99f95b1d803a672efe7232199777c1e879aa` |
+| `docs/security.md` | 2578 | `e08b7ec1b3213ade13a7ad1bc07fed971e95b98e199a7e3a6212093ee3031005` |
+| `docs/sources.md` | 1847 | `78a3d5e58b6a019042397c8ddf485be867c07caeb5fd4b9864cb2bcc535f5a5d` |
+| `docs/task_board.md` | 1026 | `bce6251a2a0e69d2f32c629c08f877b9219ce065cc40efc2297565cb78e06bad` |
+| `docs/validation.md` | 2777 | `c5bfbfb2b3d5cba4140db494c2c2fc81155cf6415075933aa0932d8919f7cc8b` |
+| `members/Adham_Behery.md` | 2296 | `036410b8469b2f97be282ba5656e12e99a23d1d411c532e69b021826be8d258e` |
+| `members/Ahmed_Shazly.md` | 2324 | `b3ed4b48daf70dc0842f09f645455c67fb46e6f7b37cb272a98691cd6b4de2f6` |
+| `members/Hassan_Gebril.md` | 3110 | `a5c031211f6e708fc5b74906f366c322e81773954819f665f8bb035667c1911d` |
+| `members/Karim_Ayman.md` | 2380 | `2f571b696729816e57df06d60e114ef70ee39a2f4c938e602f49ddc4568a839e` |
+| `members/Ziad_Kishk.md` | 2110 | `891cc8718af7f50dd283cfa184af0641813b920c91952425452ac58ef372a914` |
+| `members/Ziad_Zeiny.md` | 2670 | `c9c83462a8fe6071d4e2093b4bd9a64771505d93a7a5d964682871d70118b65e` |
+| `prompts/antigravity_prototype_start.md` | 1254 | `2dc085f4dbcaee50d62041bdfc847a9fbe540ea93f77174bc1647b15259b6742` |
+| `prompts/antigravity_task_worker.md` | 850 | `5103127de49524e96143a8829bf2307413ee3f77e95f6dcb7dac623d981b02b9` |
+| `prompts/codex_independent_review.md` | 1076 | `bbfbbd820c500d203f3508d62231b0fcc6a6b9dfd6aaa4144c8632f3b12ffe85` |
+| `prompts/codex_repo_bootstrap.md` | 1232 | `f2a7db00892244f549eccd83c853a3844fda890212316382bcffc01db68df82f` |
+| `prompts/codex_to_antigravity.md` | 1594 | `441c1ec2fd4f0954741a8a3958d3e51a78a35c5f68258d7c4277e571020c4813` |
+| `prompts/member_ai_onboarding.md` | 822 | `6ea0b6bf99fcb04a82aab932c11d7157b1aaa28470f8069effeec58d6ac6de74` |
+| `prompts/owner_merge_gate.md` | 527 | `9edb7b8ba30bb344bbe20b55997096216222b51e2cf2e9d2e963039937dc52ec` |
+| `prompts/resume_from_handoff.md` | 616 | `14d7c904e15373dc6ddbf59c32d50b5133991cc5f3ce8a3793e93fa6a4688803` |
+| `prototype.md` | 5919 | `9a5e77dc8a7a8b0afac975fa157f2b590093f9e7729f21d31cd2550255fec257` |
+| `reference/carbon_footprint_advanced_documentation.md` | 162625 | `627d1405b5a6c8370b28585d0f4bab5079c39f8762f2fe09fb2f7083691704e0` |
+| `repo.md` | 5727 | `e2f187cd6f4d464a8522cf180a02727a2177b12322f597caaefaae222648867e` |
