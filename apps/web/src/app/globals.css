@@ -1,0 +1,79 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    color-scheme: light;
+    --canvas: 246 247 248;
+    --surface: 255 255 255;
+    --subtle: 241 244 245;
+    --line: 222 228 231;
+    --ink: 26 40 47;
+    --muted: 88 106 115;
+    --positive: 16 109 86;
+    --positive-soft: 232 245 239;
+    --positive-border: 184 220 205;
+    --positive-strong: 4 120 87;
+    --info: 49 92 149;
+    --info-soft: 236 242 251;
+    --info-border: 200 216 240;
+    --warning: 135 89 24;
+    --warning-soft: 251 245 231;
+    --warning-border: 236 218 182;
+    --danger: 167 48 48;
+    --danger-soft: 253 238 238;
+    --danger-border: 239 200 200;
+  }
+  :root[data-theme='dark'] {
+    color-scheme: dark;
+    --canvas: 16 24 29;
+    --surface: 22 33 39;
+    --subtle: 29 42 49;
+    --line: 45 61 69;
+    --ink: 231 238 240;
+    --muted: 159 178 187;
+    --positive: 137 214 182;
+    --positive-soft: 26 54 47;
+    --positive-border: 46 88 73;
+    --positive-strong: 4 120 87;
+    --info: 162 191 235;
+    --info-soft: 32 47 68;
+    --info-border: 53 76 106;
+    --warning: 225 194 137;
+    --warning-soft: 54 47 32;
+    --warning-border: 89 75 47;
+    --danger: 242 164 164;
+    --danger-soft: 64 38 41;
+    --danger-border: 106 57 62;
+  }
+  body {
+    @apply bg-canvas text-ink;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 15px;
+    line-height: 1.6;
+    min-height: 100vh;
+    -webkit-font-smoothing: antialiased;
+  }
+  h1, h2, h3 { text-wrap: balance; }
+  select, input, textarea { @apply bg-surface text-ink; }
+  select { max-width: 100%; }
+  th { text-transform: none !important; letter-spacing: normal !important; }
+  td, th { vertical-align: top; }
+  button, select, summary { -webkit-tap-highlight-color: transparent; }
+  *:focus-visible { outline: 2px solid rgb(var(--positive)); outline-offset: 3px; }
+  ::selection { background: rgb(var(--positive-border)); }
+}
+@layer components {
+  .wordmark { @apply inline-flex items-center text-ink text-[25px] font-semibold leading-none; letter-spacing: -1.1px; }
+  .wordmark span { font-weight: 400; }
+  .wordmark i { @apply bg-positive rounded-full w-1.5 h-1.5 ml-1 self-end mb-0.5; }
+  .context-select { @apply min-w-0 rounded-lg border border-line bg-subtle px-3 py-2 text-sm font-medium text-ink; }
+  .demo-notice { @apply flex items-start gap-3 rounded-lg border border-line px-4 py-3 text-sm text-muted; }
+  .demo-notice strong { @apply font-medium text-ink; }
+  .demo-label { @apply rounded border border-warning-border bg-warning-soft px-2 py-0.5 text-xs font-medium text-warning shrink-0; }
+  .page-heading { @apply text-3xl sm:text-[32px] leading-tight font-semibold tracking-tight text-ink; }
+  .eyebrow { @apply text-sm text-muted mb-2; }
+  .panel { @apply rounded-xl border border-line bg-surface; }
+  .metric-value { @apply text-[34px] sm:text-[38px] leading-tight tracking-tight font-semibold tabular-nums text-ink; }
+}
