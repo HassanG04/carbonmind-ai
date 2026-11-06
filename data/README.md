@@ -7,7 +7,6 @@ This directory organizes public data sources by the CarbonMind capability that m
 The current branch contains only small public files with a traceable source and a clear reuse position:
 
 - `lca/product_footprints/boavizta-data-us.csv` — device product-footprint records for exploratory Scope 3/product-context work. Boavizta publishes this under ODbL/DBCL and warns that manufacturer PCF methods have large uncertainty; do not use it as an accurate comparative factor without review.
-- `lca/product_footprints/boavizta-sources.md` — upstream source list for the Boavizta CSV.
 - `lca/product_footprints/carbon-catalogue-866-products.xlsx` — 866 product carbon-footprint records and metadata from Figshare. The record is CC0. It is an LCA/product-footprint reference, not a facility electricity factor.
 - `electricity/ember-egypt-yearly.csv` — Egypt rows extracted from Ember's yearly global release. Ember publishes the source under CC BY 4.0. The file is context for electricity trends and intensity; it is not an approved CarbonMind emission-factor registry.
 
