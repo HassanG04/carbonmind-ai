@@ -157,3 +157,16 @@ All authorized frontend prototype tasks specified in `prototype.md` and user dir
 
 ### Next Action
 Submit complete prototype vertical slice for independent Codex review and human inspection.
+
+---
+
+## Data registry checkpoint — 2026-11-06
+
+The public-data organization task was completed on `team/hassan-gebril` and pushed in commit `5b74fc0` (`data: organize public CarbonMind sources`).
+
+- Added `data/manifest.csv` with source URLs, retrieval date, license/terms, purpose, byte size and SHA-256 for every mirrored file.
+- Added categorized documentation under `data/computer_vision/`, `data/electricity/`, `data/lca/`, `data/llm/`, `data/behavioral_surveys/` and `data/research_papers/`.
+- Mirrored only small public files: Boavizta US device data, Carbon Catalogue XLSX, and Egypt-filtered Ember yearly electricity rows.
+- Kept large, API-only, restricted, private, or license-unclear sources in `data/large_data/download.txt`. The Nordic Zenodo workbook is link-only because its public record currently has no license.
+- Data checks passed: Ember rows are Egypt/EGY only (605 rows, 1985–2025), Carbon Catalogue XLSX archive integrity passed, manifest hashes and sizes passed, `python scripts/check_docs.py` passed, and `git diff --check` passed.
+- These files are research inputs and context. They are not approved national factors, measured AASTMT data, trained-model labels, or evidence of validated emissions performance.
