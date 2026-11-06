@@ -1,6 +1,6 @@
 # Codex Brief — Create Private GitHub Repository & Enforce Ownership Workflow
 
-**Current override (2026-11-02):** Hassan is the user-designated owner; the connected account is `HassanG04`, with plan unverified. The latest user-requested lowercase/hyphenated branches below supersede older mixed-case examples throughout this pack. The original instructions remain historical guidance; use the current owner procedure at the end of this file. No remote/protection is established by these notes.
+**Current override (2026-11-03):** Hassan is the user-designated owner; the connected account is `HassanG04`, with plan unverified. The private remote `https://github.com/HassanG04/carbonmind-ai.git` now exists and contains the reviewed baseline branches. The latest user-requested lowercase/hyphenated branches below supersede older mixed-case examples throughout this pack. No branch protection or collaborator restriction is configured yet.
 **Scope:** owner-authorized setup only. **IMPORTANT:** this Markdown is an instruction for future execution, NOT proof the repository was created. Require explicit GitHub authentication and confirm owner/organization and plan before mutations. Never print auth secrets.
 
 ## Name and tree
@@ -70,7 +70,7 @@ Project goals and non-goals, scientific provenance, product personas, system bou
 | Ziad_Kishk | team/ziad-kishk |
 | Ziad_Zeiny | team/ziad-zeiny |
 
-Main remains `main`. Local Git has been initialized on unborn `team/hassan-gebril`; no commit or remote exists. Legacy charter branch strings are superseded by this table. All members must use this table until a coordinated charter refresh.
+Main remains `main`. Local Git is initialized on `team/hassan-gebril` with reviewed baseline commit `ef7e1145f3f7b94ad650907a97fe959f2629aa70`; local refs for `main` and all six canonical member branches point to that baseline. Remote `origin` points to the private `HassanG04/carbonmind-ai` repository. Legacy charter branch strings are superseded by this table. All members must use this table until a coordinated charter refresh.
 
 ## Concrete owner completion procedure (PowerShell, NOT executed)
 Prerequisites: Hassan reviews the file changes and scientific limitations; confirms intended account/repository name, GitHub plan and five other verified handles. Install GitHub CLI from its official distribution if needed, authenticate interactively using `gh auth login`, then `gh auth status` without printing tokens. Check GitHub account billing/settings for actual plan; the connected profile does not expose it. Do not infer an organization plan from personal Pro eligibility. Existing remote/repository means inspect and stop this bootstrap procedure rather than overwrite it.
@@ -81,7 +81,7 @@ git status --short --branch
 git remote -v
 python scripts/check_docs.py
 ```
-Expected: current unborn branch team/hassan-gebril, only reviewed pack/foundation files, no remote; documentation check passes. Do not commit secrets or unreviewed files. After human review, owner stages explicitly:
+Expected: current branch team/hassan-gebril, reviewed baseline plus explicitly reviewed working-tree changes, remote `origin` pointing to the intended private repository; documentation check passes. Do not commit secrets or unreviewed files. After human review, owner stages explicitly:
 ```powershell
 git add -- .gitignore .env.example AGENTS.md AI.md INDEX.md README.md MANIFEST.md prototype.md repo.md TASK.md HANDOFF.md .github docs members prompts reference scripts
 git diff --cached --check

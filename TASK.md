@@ -1,12 +1,12 @@
 # PROTO-001 — Temporary CarbonMind SaaS prototype
 
-Status: implementation packet prepared, implementation NOT started. Owner: Hassan Gebril; implementer: Antigravity; reviewer: Codex followed by independent human review. This packet does not authorize pushing, deployment or merging.
+Status: Stage A implementation submitted and stopped for Codex review; Stage B is not authorized. Owner: Hassan Gebril; implementer: Antigravity; reviewer: Codex followed by independent human review. This packet does not authorize pushing, deployment or merging.
 
 ## 1. Objective and background
 Build the temporary, fully synthetic Next.js SaaS experience specified in `prototype.md`, in four separately reviewable stages. Demonstrate university building -> inventory -> user activity -> illustrative energy/Scope 2 -> dashboard -> forecast interface -> recommendations. Production database persistence belongs to REAL-001, not this temporary frontend.
 
 ## 2. Verified context and prerequisites
-The extracted pack contains documentation only: no app, exported functions, package manifest, model or API implementation. Local branch is `team/hassan-gebril`; there is no base commit yet. All initial files are untracked until owner-reviewed bootstrap. Before implementation, require an owner-reviewed baseline commit, record its SHA in HANDOFF.md, verify the branch and a clean working tree. Do not invent a base SHA or implement on top of unreviewed bootstrap changes.
+At task creation, the extracted pack contained documentation only: no app, exported functions, package manifest, model or API implementation. The reviewed local baseline is now commit `ef7e1145f3f7b94ad650907a97fe959f2629aa70` on `team/hassan-gebril`, with canonical local branch refs created from it. Stage A changes remain uncommitted and are recorded in `HANDOFF.md` for review. Do not invent a base SHA or implement on top of unreviewed bootstrap changes.
 
 ## 3. Required reading
 Read AGENTS.md, AI.md, prototype.md, docs/architecture.md, docs/contracts.md, docs/scientific_engine.md, docs/security.md, docs/kickstart-audit.md, docs/decision-log.md, docs/kickstart-backlog.md and members/Hassan_Gebril.md. The user confirmed the science document plus bundled reference replace the absent equations.md for this kickstart. Preserve the reference unchanged; consult audit errata before using examples.
@@ -78,7 +78,7 @@ No HTTP API, production backend, Gemini connection, RAG retrieval or database fo
 ## 10. Required checks
 Implement actual npm scripts inside apps/web for `typecheck`, `lint`, `test`, `build`, `test:e2e`. Unit tests cover math, missingness, validation, deduplication and consistent fixture aggregation. Playwright covers navigation, organization changes, input validation, camera denial/manual fallback, forecast/scenario interaction and synthetic CSV export. Block third-party runtime requests in browser tests and assert no automatic camera request. Use local assets so builds do not require remote font downloads.
 
-From apps/web run `npm ci`, `npm run typecheck`, `npm run lint`, `npm run test`, `npm run build`, `npm run test:e2e`. Install a Playwright browser only if missing and report that prerequisite. From repo root run `python scripts/check_docs.py`. These are required FUTURE checks, not claims of executed tests. Do not substitute successful compilation for browser/security evidence.
+From apps/web run `npm ci`, `npm run typecheck`, `npm run lint`, `npm run test`, `npm run build`, `npm run test:e2e`. Install a Playwright browser only if missing and report that prerequisite. From repo root run `python scripts/check_docs.py`. These are required checks; the Stage A execution results are recorded in `HANDOFF.md`. Do not substitute successful compilation for browser/security evidence.
 
 ## 11. Security and forbidden behavior
 No real enterprise records, employee images, credentials, analytics, external service calls, purchases, hardware control, facial recognition or automatic upload. Render imported strings as text; validate local upload size/type and document limits. Mock tenant selection is UX only. No production isolation/auth claims. No deployment, git push, merge, force push or agent self-approval.

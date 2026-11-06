@@ -3,8 +3,10 @@ Enterprise Carbon Intelligence & Decarbonization Decision Support — graduation
 
 **Current state:** this repository package is a project planning handbook. It is not a live platform, trained ML system, deployed app, or regulatory-certified carbon accounting product.
 
-## Kickstart checkpoint — 2026-11-02
-See [discovery and scientific audit](docs/kickstart-audit.md), [prioritized backlog](docs/kickstart-backlog.md), [Antigravity implementation packet](TASK.md), and [verified handoff](HANDOFF.md). Run `python scripts/check_docs.py` for the document/link/original-reference check. Application commands belong to the future prototype and do not run yet. `MANIFEST.md` remains the original archive checksum baseline; it is not a current working-tree manifest. See `repo.md` for the current branch naming override and owner setup steps.
+## Kickstart checkpoint — 2026-11-03
+See [discovery and scientific audit](docs/kickstart-audit.md), [prioritized backlog](docs/kickstart-backlog.md), [Antigravity implementation packet](TASK.md), and [verified handoff](HANDOFF.md). Run `python scripts/check_docs.py` for the document/link/original-reference check. Production services and application commands outside the temporary frontend remain future work. `MANIFEST.md` remains the original archive checksum baseline; it is not a current working-tree manifest. See `repo.md` for the current branch naming override and owner setup steps.
+
+Stage A of the temporary synthetic frontend now exists under `apps/web/` and is stopped for Codex and human review. It has no backend, database, external API calls or production tenant isolation. Its independent verification is recorded in `HANDOFF.md`; it does not change the planning pack's production status.
 
 ## Main workflow
 See [INDEX.md](INDEX.md) -> [docs/decisions.md](docs/decisions.md) -> [repo.md](repo.md) for owner setup or [prototype.md](prototype.md) for temporary frontend. Six members have dedicated charters under `members/`. Codex reads `AGENTS.md`, shared `AI.md` and current member charter; Antigravity receives precise bounded task prompts from `prompts/`.
