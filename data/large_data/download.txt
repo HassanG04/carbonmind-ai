@@ -1,0 +1,99 @@
+# CarbonMind data sources not mirrored into Git
+#
+# Reasons include large archives, model artifacts, API-only sources, missing
+# reuse terms, private row-level data, or licensed/restricted inputs. Download
+# into an approved local or secure dataset store only after checking terms.
+
+[computer_vision]
+YOLO pretrained weights and documentation
+https://docs.ultralytics.com/models/
+Reason: model artifact; keep weights outside the Git data registry and pin the exact model/license when an experiment starts.
+
+COCO 2017
+https://cocodataset.org/#download
+Reason: large image/annotation archive; use a task-specific subset or secure dataset cache.
+
+Open Images V7
+https://storage.googleapis.com/openimages/web/index.html
+Reason: very large image and annotation collection; use category subsets and document the selected release.
+
+SUN RGB-D
+https://rgbd.cs.princeton.edu/
+Reason: large RGB/depth research dataset; download only for an approved depth experiment.
+
+[lca_and_products]
+Boavizta device-impact API
+https://doc.api.boavizta.org/
+Reason: API documentation, not a file to vendor into the repository; external calls require explicit authorization.
+
+ÖKOBAUDAT building-material downloads
+https://oekobaudat.de/en/service/downloads.html
+Reason: release archives and CSV exports are large and format/license/boundary review is still required.
+
+IPCC Emissions Factor Database
+https://www.ipcc-nggip.iges.or.jp/EFDB/find_ef_main.php
+Reason: searchable factor database; retrieve and version individual factors only after scientific review.
+
+[electricity_and_weather]
+Ember yearly global electricity release
+https://files.ember-energy.org/public-downloads/generation/outputs/release_generation_yearly_global.csv
+Reason: full current release was about 16 MB at retrieval; only filtered Egypt rows are stored locally in ../electricity/ember-egypt-yearly.csv.
+
+NASA POWER hourly weather API
+https://power.larc.nasa.gov/docs/services/api/temporal/hourly/
+Reason: API source; query by approved site/time window and retain request parameters and retrieval metadata.
+
+[behavioral_and_household_research]
+O'Sullivan et al. 2025 — Swiss household food purchases
+https://doi.org/10.1016/j.jclepro.2025.146577
+https://digitalcollection.zhaw.ch/items/116e6525-e3aa-4c7c-b13a-d0d48f43f852
+Reason: Migros loyalty-card row data are private and not available for direct reuse.
+
+Fu et al. 2024 — Chinese household consumption
+https://doi.org/10.3390/buildings14113451
+Reason: row-level questionnaire data are not public in the supplied review.
+
+Guan et al. 2025 — global low-carbon lifestyles
+https://doi.org/10.1038/s41467-025-59269-1
+Reason: GTAP/WBGCD and behavior parameters include restricted inputs; paper scenarios are not local forecasts.
+
+Olson et al. 2024 — 1.5 Degree Lifestyles survey
+https://zenodo.org/records/10656970
+https://doi.org/10.5281/zenodo.10656970
+Reason: public 5.7 MB workbook, but Zenodo currently reports no license; do not redistribute until terms are resolved.
+
+Haynes 2024 — UK community questionnaire
+https://doi.org/10.3390/su16219211
+Reason: private NGO-held row-level data.
+
+[recommenders_and_llm_evaluation]
+MIND news recommendation dataset
+https://msnews.github.io/index.html
+Reason: large and separately licensed; not a CarbonMind emissions dataset.
+
+MovieLens and Amazon Books benchmark sources
+https://grouplens.org/datasets/movielens/1m/
+https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/
+Reason: recommender benchmarks; download only for an approved energy/recommender experiment.
+
+Schodl et al. 2025 — recommender carbon footprint
+https://doi.org/10.1145/3705328.3759324
+
+Li et al. 2025 — CarbonDialog1K
+https://aclanthology.org/2025.climatenlp-1.20/
+Reason: supplied notes describe the dataset but do not provide a verified public download URL.
+
+Balaji et al. 2025 — Parakeet
+https://doi.org/10.1021/acs.est.4c12667
+Reason: evaluation sources are mixed public, licensed and restricted.
+
+Castle et al. 2025 — BOM entity linking
+https://arxiv.org/abs/2502.07418
+Reason: BOM examples and ecoinvent inputs are private or licensed.
+
+SpiderGen
+https://doi.org/10.1609/aaai.v40i46.41276
+
+Donaldson et al. 2025 — expert-grounded LCA benchmark
+https://arxiv.org/abs/2510.19886
+Reason: paper/code lead; no dataset copy was verified for this registry.

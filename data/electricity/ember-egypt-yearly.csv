@@ -1,0 +1,606 @@
+﻿Area,ISO 3 code,Year,Area type,Electricity source,Is aggregated source,Generation (TWh),Generation YoY change (TWh),Generation YoY change (%),Share of generation (%),Share of generation YoY change (% points),Capacity (GW),Emissions (MtCO2e),Emissions YoY change (MtCO2e),Emissions YoY change (%),Share of emissions (%),Emissions intensity (gCO2e/kWh),Continent,Ember region,EU member,OECD member,G20 member,G7 member,ASEAN member
+Egypt,EGY,1985,Country or economy,Wind,False,0.0,,,0.0,,,0.0,,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1985,Country or economy,Hydro,False,9.148,,,30.238,,,0.217,,,1.554,23.721,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1985,Country or economy,Nuclear,False,0.0,,,0.0,,,0.0,,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1985,Country or economy,Coal,False,0.0,,,0.0,,,0.0,,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1985,Country or economy,Gas,False,9.236,,,30.529,,,5.933,,,42.499,642.378,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1985,Country or economy,Other fossil,False,11.869,,,39.232,,,7.81,,,55.944,658.017,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1985,Country or economy,Wind and solar,True,0.0,,,0.0,,,0.0,,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1985,Country or economy,"Hydro, bioenergy and other renewables",True,9.148,,,30.238,,,0.217,,,1.554,23.721,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1985,Country or economy,Renewables,True,9.148,,,30.238,,,0.217,,,1.554,23.721,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1985,Country or economy,Clean,True,9.148,,,30.238,,,0.217,,,1.554,23.721,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1985,Country or economy,Fossil,True,21.106,,,69.764,,,13.743,,,98.444,651.142,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1985,Country or economy,Total generation,True,30.254,,,100.002,,,13.96,,,99.998,461.427,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1985,Country or economy,Demand,True,30.254,,,100.002,,,,,,,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1986,Country or economy,Wind,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1986,Country or economy,Hydro,False,8.972,-0.176,-1.924,27.639,-2.599,,0.213,-0.004,-1.843,1.373,23.741,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1986,Country or economy,Nuclear,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1986,Country or economy,Coal,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1986,Country or economy,Gas,False,10.289,1.053,11.401,31.696,1.167,,6.609,0.676,11.394,42.617,642.336,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1986,Country or economy,Other fossil,False,13.2,1.331,11.214,40.664,1.432,,8.686,0.876,11.216,56.01,658.03,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1986,Country or economy,Wind and solar,True,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1986,Country or economy,"Hydro, bioenergy and other renewables",True,8.972,-0.176,-1.924,27.639,-2.599,,0.213,-0.004,-1.843,1.373,23.741,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1986,Country or economy,Renewables,True,8.972,-0.176,-1.924,27.639,-2.599,,0.213,-0.004,-1.843,1.373,23.741,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1986,Country or economy,Clean,True,8.972,-0.176,-1.924,27.639,-2.599,,0.213,-0.004,-1.843,1.373,23.741,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1986,Country or economy,Fossil,True,23.489,2.383,11.291,72.361,2.597,,15.295,1.552,11.293,98.627,651.156,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1986,Country or economy,Total generation,True,32.461,2.207,7.295,100.0,-0.002,,15.508,1.548,11.089,100.0,477.743,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1986,Country or economy,Demand,True,32.461,2.207,7.295,100.0,-0.002,,,,,,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1987,Country or economy,Wind,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1987,Country or economy,Hydro,False,8.97,-0.002,-0.022,25.158,-2.481,,0.213,0.0,0.0,1.211,23.746,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1987,Country or economy,Nuclear,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1987,Country or economy,Coal,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1987,Country or economy,Gas,False,11.716,1.427,13.869,32.86,1.164,,7.526,0.917,13.875,42.789,642.369,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1987,Country or economy,Other fossil,False,14.969,1.769,13.402,41.983,1.319,,9.85,1.164,13.401,56.002,658.027,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1987,Country or economy,Wind and solar,True,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1987,Country or economy,"Hydro, bioenergy and other renewables",True,8.97,-0.002,-0.022,25.158,-2.481,,0.213,0.0,0.0,1.211,23.746,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1987,Country or economy,Renewables,True,8.97,-0.002,-0.022,25.158,-2.481,,0.213,0.0,0.0,1.211,23.746,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1987,Country or economy,Clean,True,8.97,-0.002,-0.022,25.158,-2.481,,0.213,0.0,0.0,1.211,23.746,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1987,Country or economy,Fossil,True,26.685,3.196,13.606,74.843,2.482,,17.375,2.08,13.599,98.786,651.115,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1987,Country or economy,Total generation,True,35.654,3.193,9.836,99.999,-0.001,,17.589,2.081,13.419,100.003,493.325,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1987,Country or economy,Demand,True,35.654,3.193,9.836,99.999,-0.001,,,,,,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1988,Country or economy,Wind,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1988,Country or economy,Hydro,False,8.829,-0.141,-1.572,22.807,-2.351,,0.21,-0.003,-1.408,1.068,23.785,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1988,Country or economy,Nuclear,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1988,Country or economy,Coal,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1988,Country or economy,Gas,False,13.156,1.44,12.291,33.984,1.124,,8.451,0.925,12.291,42.97,642.369,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1988,Country or economy,Other fossil,False,16.728,1.759,11.751,43.211,1.228,,11.007,1.157,11.746,55.966,657.999,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1988,Country or economy,Wind and solar,True,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1988,Country or economy,"Hydro, bioenergy and other renewables",True,8.829,-0.141,-1.572,22.807,-2.351,,0.21,-0.003,-1.408,1.068,23.785,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1988,Country or economy,Renewables,True,8.829,-0.141,-1.572,22.807,-2.351,,0.21,-0.003,-1.408,1.068,23.785,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1988,Country or economy,Clean,True,8.829,-0.141,-1.572,22.807,-2.351,,0.21,-0.003,-1.408,1.068,23.785,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1988,Country or economy,Fossil,True,29.883,3.198,11.984,77.192,2.349,,19.458,2.083,11.988,98.936,651.139,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1988,Country or economy,Total generation,True,38.712,3.058,8.577,99.999,0.0,,19.667,2.078,11.814,99.998,508.034,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1988,Country or economy,Demand,True,38.712,3.058,8.577,99.999,0.0,,,,,,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1989,Country or economy,Wind,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1989,Country or economy,Hydro,False,9.487,0.658,7.453,23.359,0.552,,0.225,0.015,7.143,1.098,23.717,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1989,Country or economy,Nuclear,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1989,Country or economy,Coal,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1989,Country or economy,Gas,False,13.715,0.559,4.249,33.769,-0.215,,8.81,0.359,4.248,42.991,642.362,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1989,Country or economy,Other fossil,False,17.412,0.684,4.089,42.871,-0.34,,11.457,0.45,4.088,55.908,657.994,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1989,Country or economy,Wind and solar,True,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1989,Country or economy,"Hydro, bioenergy and other renewables",True,9.487,0.658,7.453,23.359,0.552,,0.225,0.015,7.143,1.098,23.717,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1989,Country or economy,Renewables,True,9.487,0.658,7.453,23.359,0.552,,0.225,0.015,7.143,1.098,23.717,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1989,Country or economy,Clean,True,9.487,0.658,7.453,23.359,0.552,,0.225,0.015,7.143,1.098,23.717,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1989,Country or economy,Fossil,True,31.127,1.244,4.163,76.64,-0.552,,20.267,0.809,4.158,98.898,651.107,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1989,Country or economy,Total generation,True,40.614,1.902,4.913,99.999,0.0,,20.493,0.826,4.2,100.001,504.58,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1989,Country or economy,Demand,True,40.614,1.902,4.913,99.999,0.0,,,,,,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1990,Country or economy,Solar,False,0.0,,,0.0,,,0.0,,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1990,Country or economy,Wind,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1990,Country or economy,Hydro,False,9.953,0.466,4.912,23.724,0.365,,0.236,0.011,4.889,1.122,23.711,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1990,Country or economy,Bioenergy,False,0.0,,,0.0,,,0.0,,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1990,Country or economy,Nuclear,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1990,Country or economy,Coal,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1990,Country or economy,Gas,False,16.446,2.731,19.913,39.201,5.432,,10.564,1.754,19.909,50.221,642.345,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1990,Country or economy,Other fossil,False,15.554,-1.858,-10.671,37.075,-5.796,,10.234,-1.223,-10.675,48.653,657.966,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1990,Country or economy,Wind and solar,True,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1990,Country or economy,"Hydro, bioenergy and other renewables",True,9.953,0.466,4.912,23.724,0.365,,0.236,0.011,4.889,1.122,23.711,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1990,Country or economy,Renewables,True,9.953,0.466,4.912,23.724,0.365,,0.236,0.011,4.889,1.122,23.711,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1990,Country or economy,Clean,True,9.953,0.466,4.912,23.724,0.365,,0.236,0.011,4.889,1.122,23.711,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1990,Country or economy,Fossil,True,31.999,0.872,2.801,76.274,-0.366,,20.798,0.531,2.62,98.874,649.958,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1990,Country or economy,Total generation,True,41.952,1.338,3.294,99.999,0.0,,21.035,0.542,2.645,100.001,501.406,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1990,Country or economy,Demand,True,41.952,1.338,3.294,99.999,0.0,,,,,,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1991,Country or economy,Solar,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1991,Country or economy,Wind,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1991,Country or economy,Hydro,False,9.916,-0.037,-0.372,22.913,-0.811,,0.236,0.0,0.0,1.079,23.8,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1991,Country or economy,Bioenergy,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1991,Country or economy,Nuclear,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1991,Country or economy,Coal,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1991,Country or economy,Gas,False,20.406,3.96,24.079,47.153,7.952,,13.108,2.544,24.082,59.944,642.36,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1991,Country or economy,Other fossil,False,12.954,-2.6,-16.716,29.933,-7.142,,8.523,-1.711,-16.719,38.976,657.943,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1991,Country or economy,Wind and solar,True,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1991,Country or economy,"Hydro, bioenergy and other renewables",True,9.916,-0.037,-0.372,22.913,-0.811,,0.236,0.0,0.0,1.079,23.8,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1991,Country or economy,Renewables,True,9.916,-0.037,-0.372,22.913,-0.811,,0.236,0.0,0.0,1.079,23.8,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1991,Country or economy,Clean,True,9.916,-0.037,-0.372,22.913,-0.811,,0.236,0.0,0.0,1.079,23.8,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1991,Country or economy,Fossil,True,33.36,1.361,4.253,77.087,0.813,,21.632,0.834,4.01,98.924,648.441,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1991,Country or economy,Total generation,True,43.276,1.324,3.156,100.0,0.001,,21.867,0.832,3.955,99.999,505.292,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1991,Country or economy,Demand,True,43.276,1.324,3.156,100.0,0.001,,,,,,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1992,Country or economy,Solar,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1992,Country or economy,Wind,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1992,Country or economy,Hydro,False,9.8,-0.116,-1.17,21.784,-1.129,,0.233,-0.003,-1.271,1.012,23.776,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1992,Country or economy,Bioenergy,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1992,Country or economy,Nuclear,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1992,Country or economy,Coal,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1992,Country or economy,Gas,False,22.944,2.538,12.438,51.001,3.848,,14.739,1.631,12.443,64.008,642.39,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1992,Country or economy,Other fossil,False,12.242,-0.712,-5.496,27.212,-2.721,,8.056,-0.467,-5.479,34.985,658.062,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1992,Country or economy,Wind and solar,True,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1992,Country or economy,"Hydro, bioenergy and other renewables",True,9.8,-0.116,-1.17,21.784,-1.129,,0.233,-0.003,-1.271,1.012,23.776,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1992,Country or economy,Renewables,True,9.8,-0.116,-1.17,21.784,-1.129,,0.233,-0.003,-1.271,1.012,23.776,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1992,Country or economy,Clean,True,9.8,-0.116,-1.17,21.784,-1.129,,0.233,-0.003,-1.271,1.012,23.776,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1992,Country or economy,Fossil,True,35.187,1.827,5.477,78.216,1.129,,22.794,1.162,5.372,98.988,647.796,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1992,Country or economy,Total generation,True,44.987,1.711,3.954,100.0,0.0,,23.027,1.16,5.305,100.0,511.859,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1992,Country or economy,Demand,True,44.987,1.711,3.954,100.0,0.0,,,,,,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1993,Country or economy,Solar,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1993,Country or economy,Wind,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1993,Country or economy,Hydro,False,10.092,0.292,2.98,21.593,-0.191,,0.24,0.007,3.004,1.002,23.781,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1993,Country or economy,Bioenergy,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1993,Country or economy,Nuclear,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1993,Country or economy,Coal,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1993,Country or economy,Gas,False,26.172,3.228,14.069,55.998,4.997,,16.812,2.073,14.065,70.218,642.366,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1993,Country or economy,Other fossil,False,10.472,-1.77,-14.458,22.406,-4.806,,6.891,-1.165,-14.461,28.782,658.04,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1993,Country or economy,Wind and solar,True,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1993,Country or economy,"Hydro, bioenergy and other renewables",True,10.092,0.292,2.98,21.593,-0.191,,0.24,0.007,3.004,1.002,23.781,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1993,Country or economy,Renewables,True,10.092,0.292,2.98,21.593,-0.191,,0.24,0.007,3.004,1.002,23.781,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1993,Country or economy,Clean,True,10.092,0.292,2.98,21.593,-0.191,,0.24,0.007,3.004,1.002,23.781,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1993,Country or economy,Fossil,True,36.644,1.457,4.141,78.405,0.189,,23.703,0.909,3.988,99.0,646.845,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1993,Country or economy,Total generation,True,46.737,1.75,3.89,100.0,0.0,,23.942,0.915,3.974,99.998,512.271,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1993,Country or economy,Demand,True,46.737,1.75,3.89,100.0,0.0,,,,,,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1994,Country or economy,Solar,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1994,Country or economy,Wind,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1994,Country or economy,Hydro,False,10.728,0.636,6.302,22.097,0.504,,0.255,0.015,6.25,1.033,23.77,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1994,Country or economy,Bioenergy,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1994,Country or economy,Nuclear,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1994,Country or economy,Coal,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1994,Country or economy,Gas,False,29.292,3.12,11.921,60.334,4.336,,18.816,2.004,11.92,76.229,642.36,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1994,Country or economy,Other fossil,False,8.53,-1.942,-18.545,17.57,-4.836,,5.613,-1.278,-18.546,22.74,658.03,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1994,Country or economy,Wind and solar,True,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1994,Country or economy,"Hydro, bioenergy and other renewables",True,10.728,0.636,6.302,22.097,0.504,,0.255,0.015,6.25,1.033,23.77,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1994,Country or economy,Renewables,True,10.728,0.636,6.302,22.097,0.504,,0.255,0.015,6.25,1.033,23.77,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1994,Country or economy,Clean,True,10.728,0.636,6.302,22.097,0.504,,0.255,0.015,6.25,1.033,23.77,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1994,Country or economy,Fossil,True,37.822,1.178,3.215,77.903,-0.502,,24.429,0.726,3.063,98.969,645.894,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1994,Country or economy,Total generation,True,48.55,1.813,3.879,100.0,0.0,,24.684,0.742,3.099,100.002,508.424,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1994,Country or economy,Demand,True,48.55,1.813,3.879,100.0,0.0,,,,,,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1995,Country or economy,Solar,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1995,Country or economy,Wind,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1995,Country or economy,Hydro,False,11.192,0.464,4.325,22.096,-0.001,,0.266,0.011,4.314,1.033,23.767,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1995,Country or economy,Bioenergy,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1995,Country or economy,Nuclear,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1995,Country or economy,Coal,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1995,Country or economy,Gas,False,30.45,1.158,3.953,60.116,-0.218,,19.56,0.744,3.954,75.949,642.365,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1995,Country or economy,Other fossil,False,9.01,0.48,5.627,17.788,0.218,,5.929,0.316,5.63,23.021,658.047,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1995,Country or economy,Wind and solar,True,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1995,Country or economy,"Hydro, bioenergy and other renewables",True,11.192,0.464,4.325,22.096,-0.001,,0.266,0.011,4.314,1.033,23.767,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1995,Country or economy,Renewables,True,11.192,0.464,4.325,22.096,-0.001,,0.266,0.011,4.314,1.033,23.767,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1995,Country or economy,Clean,True,11.192,0.464,4.325,22.096,-0.001,,0.266,0.011,4.314,1.033,23.767,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1995,Country or economy,Fossil,True,39.46,1.638,4.331,77.904,0.001,,25.488,1.059,4.335,98.966,645.92,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1995,Country or economy,Total generation,True,50.652,2.102,4.33,100.0,0.0,,25.754,1.07,4.335,99.999,508.45,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1995,Country or economy,Demand,True,50.652,2.102,4.33,100.0,0.0,,,,,,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1996,Country or economy,Solar,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1996,Country or economy,Wind,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1996,Country or economy,Hydro,False,11.484,0.292,2.609,21.437,-0.659,,0.273,0.007,2.632,0.994,23.772,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1996,Country or economy,Bioenergy,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1996,Country or economy,Nuclear,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1996,Country or economy,Coal,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1996,Country or economy,Gas,False,31.513,1.063,3.491,58.826,-1.29,,20.243,0.683,3.492,73.685,642.37,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1996,Country or economy,Other fossil,False,10.572,1.562,17.336,19.735,1.947,,6.957,1.028,17.339,25.324,658.059,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1996,Country or economy,Wind and solar,True,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1996,Country or economy,"Hydro, bioenergy and other renewables",True,11.484,0.292,2.609,21.437,-0.659,,0.273,0.007,2.632,0.994,23.772,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1996,Country or economy,Renewables,True,11.484,0.292,2.609,21.437,-0.659,,0.273,0.007,2.632,0.994,23.772,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1996,Country or economy,Clean,True,11.484,0.292,2.609,21.437,-0.659,,0.273,0.007,2.632,0.994,23.772,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1996,Country or economy,Fossil,True,42.086,2.626,6.655,78.563,0.659,,27.2,1.712,6.717,99.008,646.296,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1996,Country or economy,Total generation,True,53.57,2.918,5.761,100.0,0.0,,27.472,1.718,6.671,99.998,512.824,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1996,Country or economy,Demand,True,53.57,2.918,5.761,100.0,0.0,,,,,,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1997,Country or economy,Solar,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1997,Country or economy,Wind,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1997,Country or economy,Hydro,False,11.771,0.287,2.499,20.729,-0.708,,0.28,0.007,2.564,0.953,23.787,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1997,Country or economy,Bioenergy,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1997,Country or economy,Nuclear,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1997,Country or economy,Coal,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1997,Country or economy,Gas,False,32.679,1.166,3.7,57.55,-1.276,,20.992,0.749,3.7,71.433,642.37,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1997,Country or economy,Other fossil,False,12.333,1.761,16.657,21.719,1.984,,8.115,1.158,16.645,27.614,657.991,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1997,Country or economy,Wind and solar,True,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1997,Country or economy,"Hydro, bioenergy and other renewables",True,11.771,0.287,2.499,20.729,-0.708,,0.28,0.007,2.564,0.953,23.787,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1997,Country or economy,Renewables,True,11.771,0.287,2.499,20.729,-0.708,,0.28,0.007,2.564,0.953,23.787,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1997,Country or economy,Clean,True,11.771,0.287,2.499,20.729,-0.708,,0.28,0.007,2.564,0.953,23.787,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1997,Country or economy,Fossil,True,45.013,2.927,6.955,79.271,0.708,,29.107,1.907,7.011,99.047,646.635,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1997,Country or economy,Total generation,True,56.784,3.214,6.0,100.0,0.0,,29.387,1.915,6.971,100.0,517.523,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1997,Country or economy,Demand,True,56.784,3.214,6.0,100.0,0.0,,,,,,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1998,Country or economy,Solar,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1998,Country or economy,Wind,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1998,Country or economy,Hydro,False,12.104,0.333,2.829,19.942,-0.787,,0.288,0.008,2.857,0.907,23.794,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1998,Country or economy,Bioenergy,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1998,Country or economy,Nuclear,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1998,Country or economy,Coal,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1998,Country or economy,Gas,False,32.53,-0.149,-0.456,53.594,-3.956,,20.895,-0.097,-0.462,65.806,642.33,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1998,Country or economy,Other fossil,False,16.063,3.73,30.244,26.464,4.745,,10.569,2.454,30.24,33.286,657.972,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1998,Country or economy,Wind and solar,True,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1998,Country or economy,"Hydro, bioenergy and other renewables",True,12.104,0.333,2.829,19.942,-0.787,,0.288,0.008,2.857,0.907,23.794,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1998,Country or economy,Renewables,True,12.104,0.333,2.829,19.942,-0.787,,0.288,0.008,2.857,0.907,23.794,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1998,Country or economy,Clean,True,12.104,0.333,2.829,19.942,-0.787,,0.288,0.008,2.857,0.907,23.794,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1998,Country or economy,Fossil,True,48.592,3.579,7.951,80.057,0.786,,31.465,2.358,8.101,99.094,647.535,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1998,Country or economy,Total generation,True,60.697,3.913,6.891,100.0,0.0,,31.753,2.366,8.051,100.001,523.14,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1998,Country or economy,Demand,True,60.697,3.913,6.891,100.0,0.0,,,,,,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1999,Country or economy,Solar,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1999,Country or economy,Wind,False,0.012,0.012,,0.018,0.018,,0.0,0.0,,0.0,0.0,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1999,Country or economy,Hydro,False,13.44,1.336,11.038,20.447,0.505,,0.319,0.031,10.764,0.934,23.735,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1999,Country or economy,Bioenergy,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1999,Country or economy,Nuclear,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1999,Country or economy,Coal,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1999,Country or economy,Gas,False,37.226,4.696,14.436,56.634,3.04,,23.913,3.018,14.444,70.052,642.374,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1999,Country or economy,Other fossil,False,15.051,-1.012,-6.3,22.898,-3.566,,9.904,-0.665,-6.292,29.013,658.029,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1999,Country or economy,Wind and solar,True,0.012,0.012,,0.018,0.018,,0.0,0.0,,0.0,0.0,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1999,Country or economy,"Hydro, bioenergy and other renewables",True,13.44,1.336,11.038,20.447,0.505,,0.319,0.031,10.764,0.934,23.735,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1999,Country or economy,Renewables,True,13.452,1.348,11.137,20.465,0.523,,0.319,0.031,10.764,0.934,23.714,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1999,Country or economy,Clean,True,13.452,1.348,11.137,20.465,0.523,,0.319,0.031,10.764,0.934,23.714,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1999,Country or economy,Fossil,True,52.278,3.686,7.586,79.534,-0.523,,33.817,2.352,7.475,99.066,646.869,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1999,Country or economy,Total generation,True,65.73,5.033,8.292,99.999,-0.001,,34.136,2.383,7.505,100.0,519.337,Africa,Africa,False,False,False,False,False
+Egypt,EGY,1999,Country or economy,Demand,True,65.73,5.033,8.292,99.999,-0.001,,,,,,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2000,Country or economy,Solar,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2000,Country or economy,Wind,False,0.08,0.068,566.667,0.109,0.091,0.07,0.001,0.001,,0.003,12.5,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2000,Country or economy,Hydro,False,14.178,0.738,5.491,19.337,-1.11,2.79,0.337,0.018,5.643,0.874,23.769,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2000,Country or economy,Bioenergy,False,0.0,0.0,,0.0,0.0,0.07,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2000,Country or economy,Coal,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2000,Country or economy,Gas,False,42.188,4.962,13.329,57.54,0.906,10.21,27.1,3.187,13.327,70.318,642.363,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2000,Country or economy,Other fossil,False,16.872,1.821,12.099,23.012,0.114,0.0,11.102,1.198,12.096,28.807,658.013,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2000,Country or economy,Net imports,False,-0.147,,,-0.2,,,0.0,,,0.0,0.0,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2000,Country or economy,Wind and solar,True,0.081,0.069,575.0,0.11,0.092,0.07,0.001,0.001,,0.003,12.346,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2000,Country or economy,"Hydro, bioenergy and other renewables",True,14.178,0.738,5.491,19.337,-1.11,2.86,0.337,0.018,5.643,0.874,23.769,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2000,Country or economy,Renewables,True,14.259,0.807,5.999,19.448,-1.017,2.9299999999999997,0.338,0.019,5.956,0.877,23.704,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2000,Country or economy,Clean,True,14.259,0.807,5.999,19.448,-1.017,2.9299999999999997,0.338,0.019,5.956,0.877,23.704,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2000,Country or economy,Fossil,True,59.06,6.782,12.973,80.552,1.018,10.21,38.202,4.385,12.967,99.125,646.834,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2000,Country or economy,Total generation,True,73.319,7.589,11.546,100.0,0.001,13.14,38.539,4.403,12.898,99.999,525.635,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2000,Country or economy,Demand,True,73.172,7.442,11.322,99.8,-0.199,,,,,,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2001,Country or economy,Solar,False,0.001,0.001,,0.001,0.001,0.0,0.0,0.0,,0.0,0.0,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2001,Country or economy,Wind,False,0.179,0.099,123.75,0.222,0.113,0.07,0.002,0.001,100.0,0.005,11.173,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2001,Country or economy,Hydro,False,14.414,0.236,1.665,17.858,-1.479,2.79,0.342,0.005,1.484,0.794,23.727,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2001,Country or economy,Bioenergy,False,0.0,0.0,,0.0,0.0,0.07,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2001,Country or economy,Coal,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2001,Country or economy,Gas,False,48.471,6.283,14.893,60.054,2.514,10.91,31.136,4.036,14.893,72.254,642.363,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2001,Country or economy,Other fossil,False,17.648,0.776,4.599,21.865,-1.147,0.0,11.612,0.51,4.594,26.947,657.978,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2001,Country or economy,Net imports,False,-0.206,-0.059,40.136,-0.255,-0.055,,0.0,0.0,,0.0,0.0,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2001,Country or economy,Wind and solar,True,0.18,0.099,122.222,0.223,0.113,0.07,0.002,0.001,100.0,0.005,11.111,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2001,Country or economy,"Hydro, bioenergy and other renewables",True,14.414,0.236,1.665,17.858,-1.479,2.86,0.342,0.005,1.484,0.794,23.727,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2001,Country or economy,Renewables,True,14.593,0.334,2.342,18.08,-1.368,2.9299999999999997,0.344,0.006,1.775,0.798,23.573,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2001,Country or economy,Clean,True,14.593,0.334,2.342,18.08,-1.368,2.9299999999999997,0.344,0.006,1.775,0.798,23.573,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2001,Country or economy,Fossil,True,66.119,7.059,11.952,81.919,1.367,10.91,42.748,4.546,11.9,99.201,646.531,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2001,Country or economy,Total generation,True,80.712,7.393,10.083,99.999,-0.001,13.84,43.092,4.553,11.814,99.999,533.898,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2001,Country or economy,Demand,True,80.506,7.334,10.023,99.744,-0.056,,,,,,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2002,Country or economy,Solar,False,0.001,0.0,0.0,0.001,0.0,0.0,0.0,0.0,,0.0,0.0,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2002,Country or economy,Wind,False,0.212,0.033,18.436,0.246,0.024,0.07,0.002,0.0,0.0,0.004,9.434,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2002,Country or economy,Hydro,False,13.994,-0.42,-2.914,16.228,-1.63,2.79,0.333,-0.009,-2.632,0.711,23.796,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2002,Country or economy,Bioenergy,False,0.0,0.0,,0.0,0.0,0.07,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2002,Country or economy,Coal,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2002,Country or economy,Gas,False,57.451,8.98,18.527,66.621,6.567,11.6,36.904,5.768,18.525,78.804,642.356,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2002,Country or economy,Other fossil,False,14.577,-3.071,-17.401,16.904,-4.961,0.0,9.592,-2.02,-17.396,20.483,658.023,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2002,Country or economy,Net imports,False,-0.78,-0.574,278.641,-0.904,-0.649,,0.0,0.0,,0.0,0.0,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2002,Country or economy,Wind and solar,True,0.214,0.034,18.889,0.248,0.025,0.07,0.002,0.0,0.0,0.004,9.346,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2002,Country or economy,"Hydro, bioenergy and other renewables",True,13.994,-0.42,-2.914,16.228,-1.63,2.86,0.333,-0.009,-2.632,0.711,23.796,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2002,Country or economy,Renewables,True,14.208,-0.385,-2.638,16.476,-1.604,2.9299999999999997,0.335,-0.009,-2.616,0.715,23.578,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2002,Country or economy,Clean,True,14.208,-0.385,-2.638,16.476,-1.604,2.9299999999999997,0.335,-0.009,-2.616,0.715,23.578,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2002,Country or economy,Fossil,True,72.028,5.909,8.937,83.524,1.605,11.6,46.496,3.748,8.768,99.286,645.527,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2002,Country or economy,Total generation,True,86.236,5.524,6.844,100.0,0.001,14.530000000000001,46.83,3.738,8.674,100.0,543.045,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2002,Country or economy,Demand,True,85.456,4.95,6.149,99.096,-0.648,,,,,,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2003,Country or economy,Solar,False,0.001,0.0,0.0,0.001,0.0,0.0,0.0,0.0,,0.0,0.0,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2003,Country or economy,Wind,False,0.286,0.074,34.906,0.31,0.064,0.07,0.003,0.001,50.0,0.006,10.49,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2003,Country or economy,Hydro,False,12.939,-1.055,-7.539,14.036,-2.192,2.79,0.307,-0.026,-7.808,0.599,23.727,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2003,Country or economy,Bioenergy,False,0.0,0.0,,0.0,0.0,0.07,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2003,Country or economy,Coal,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2003,Country or economy,Gas,False,64.025,6.574,11.443,69.452,2.831,12.96,41.127,4.223,11.443,80.225,642.358,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2003,Country or economy,Other fossil,False,14.936,0.359,2.463,16.202,-0.702,0.0,9.828,0.236,2.46,19.171,658.007,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2003,Country or economy,Net imports,False,-0.918,-0.138,17.692,-0.996,-0.092,,0.0,0.0,,0.0,0.0,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2003,Country or economy,Wind and solar,True,0.287,0.073,34.112,0.311,0.063,0.07,0.003,0.001,50.0,0.006,10.453,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2003,Country or economy,"Hydro, bioenergy and other renewables",True,12.939,-1.055,-7.539,14.036,-2.192,2.86,0.307,-0.026,-7.808,0.599,23.727,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2003,Country or economy,Renewables,True,13.226,-0.982,-6.912,14.347,-2.129,2.9299999999999997,0.31,-0.025,-7.463,0.605,23.439,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2003,Country or economy,Clean,True,13.226,-0.982,-6.912,14.347,-2.129,2.9299999999999997,0.31,-0.025,-7.463,0.605,23.439,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2003,Country or economy,Fossil,True,78.96,6.932,9.624,85.652,2.128,12.96,50.954,4.458,9.588,99.394,645.314,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2003,Country or economy,Total generation,True,92.186,5.95,6.9,99.999,-0.001,15.89,51.265,4.435,9.47,100.001,556.104,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2003,Country or economy,Demand,True,91.268,5.812,6.801,99.004,-0.092,,,,,,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2004,Country or economy,Solar,False,0.001,0.0,0.0,0.001,0.0,0.0,0.0,0.0,,0.0,0.0,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2004,Country or economy,Wind,False,0.504,0.218,76.224,0.513,0.203,0.15,0.005,0.002,66.667,0.009,9.921,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2004,Country or economy,Hydro,False,12.832,-0.107,-0.827,13.06,-0.976,2.79,0.305,-0.002,-0.651,0.554,23.769,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2004,Country or economy,Bioenergy,False,0.0,0.0,,0.0,0.0,0.07,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2004,Country or economy,Coal,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2004,Country or economy,Gas,False,74.448,10.423,16.28,75.772,6.32,12.96,47.822,6.695,16.279,86.918,642.354,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2004,Country or economy,Other fossil,False,10.468,-4.468,-29.914,10.654,-5.548,0.0,6.888,-2.94,-29.915,12.519,658.005,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2004,Country or economy,Net imports,False,-0.699,0.219,-23.856,-0.711,0.285,,0.0,0.0,,0.0,0.0,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2004,Country or economy,Wind and solar,True,0.505,0.218,75.958,0.514,0.203,0.15,0.005,0.002,66.667,0.009,9.901,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2004,Country or economy,"Hydro, bioenergy and other renewables",True,12.832,-0.107,-0.827,13.06,-0.976,2.86,0.305,-0.002,-0.651,0.554,23.769,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2004,Country or economy,Renewables,True,13.337,0.111,0.839,13.574,-0.773,3.01,0.31,0.0,0.0,0.563,23.244,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2004,Country or economy,Clean,True,13.337,0.111,0.839,13.574,-0.773,3.01,0.31,0.0,0.0,0.563,23.244,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2004,Country or economy,Fossil,True,84.916,5.956,7.543,86.426,0.774,12.96,54.71,3.756,7.371,99.437,644.284,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2004,Country or economy,Total generation,True,98.252,6.066,6.58,100.0,0.001,15.97,55.02,3.755,7.325,100.001,559.989,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2004,Country or economy,Demand,True,97.553,6.285,6.886,99.288,0.284,,,,,,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2005,Country or economy,Solar,False,0.001,0.0,0.0,0.001,0.0,0.0,0.0,0.0,,0.0,0.0,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2005,Country or economy,Wind,False,0.51,0.006,1.19,0.486,-0.027,0.15,0.005,0.0,0.0,0.008,9.804,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2005,Country or economy,Hydro,False,12.644,-0.188,-1.465,12.048,-1.012,2.79,0.3,-0.005,-1.639,0.504,23.727,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2005,Country or economy,Bioenergy,False,0.0,0.0,,0.0,0.0,0.07,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2005,Country or economy,Coal,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2005,Country or economy,Gas,False,76.79,2.342,3.146,73.17,-2.602,12.96,49.326,1.504,3.145,82.896,642.349,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2005,Country or economy,Other fossil,False,15.003,4.535,43.323,14.296,3.642,0.0,9.872,2.984,43.322,16.591,658.002,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2005,Country or economy,Net imports,False,-0.778,-0.079,11.302,-0.741,-0.03,,0.0,0.0,,0.0,0.0,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2005,Country or economy,Wind and solar,True,0.511,0.006,1.188,0.487,-0.027,0.15,0.005,0.0,0.0,0.008,9.785,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2005,Country or economy,"Hydro, bioenergy and other renewables",True,12.644,-0.188,-1.465,12.048,-1.012,2.86,0.3,-0.005,-1.639,0.504,23.727,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2005,Country or economy,Renewables,True,13.155,-0.182,-1.365,12.535,-1.039,3.01,0.305,-0.005,-1.613,0.513,23.185,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2005,Country or economy,Clean,True,13.155,-0.182,-1.365,12.535,-1.039,3.01,0.305,-0.005,-1.613,0.513,23.185,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2005,Country or economy,Fossil,True,91.792,6.876,8.097,87.465,1.039,12.96,59.198,4.488,8.203,99.487,644.915,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2005,Country or economy,Total generation,True,104.947,6.695,6.814,100.0,0.0,15.97,59.503,4.483,8.148,100.0,566.981,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2005,Country or economy,Demand,True,104.169,6.616,6.782,99.258,-0.03,,,,,,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2006,Country or economy,Solar,False,0.001,0.0,0.0,0.001,0.0,0.0,0.0,0.0,,0.0,0.0,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2006,Country or economy,Wind,False,0.605,0.095,18.627,0.542,0.056,0.23,0.006,0.001,20.0,0.009,9.917,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2006,Country or economy,Hydro,False,12.784,0.14,1.107,11.449,-0.599,2.79,0.304,0.004,1.333,0.477,23.78,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2006,Country or economy,Bioenergy,False,0.0,0.0,,0.0,0.0,0.07,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2006,Country or economy,Coal,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2006,Country or economy,Gas,False,83.06,6.27,8.165,74.386,1.216,14.46,53.354,4.028,8.166,83.795,642.355,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2006,Country or economy,Other fossil,False,15.211,0.208,1.386,13.622,-0.674,0.0,10.009,0.137,1.388,15.72,658.011,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2006,Country or economy,Net imports,False,-0.349,0.429,-55.141,-0.313,0.428,,0.0,0.0,,0.0,0.0,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2006,Country or economy,Wind and solar,True,0.606,0.095,18.591,0.543,0.056,0.23,0.006,0.001,20.0,0.009,9.901,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2006,Country or economy,"Hydro, bioenergy and other renewables",True,12.784,0.14,1.107,11.449,-0.599,2.86,0.304,0.004,1.333,0.477,23.78,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2006,Country or economy,Renewables,True,13.391,0.236,1.794,11.993,-0.542,3.09,0.31,0.005,1.639,0.487,23.15,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2006,Country or economy,Clean,True,13.391,0.236,1.794,11.993,-0.542,3.09,0.31,0.005,1.639,0.487,23.15,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2006,Country or economy,Fossil,True,98.27,6.478,7.057,88.007,0.542,14.46,63.363,4.165,7.036,99.515,644.785,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2006,Country or economy,Total generation,True,111.661,6.714,6.398,100.0,0.0,17.55,63.672,4.169,7.006,100.0,570.226,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2006,Country or economy,Demand,True,111.312,7.143,6.857,99.687,0.429,,,,,,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2007,Country or economy,Solar,False,0.001,0.0,0.0,0.001,0.0,0.0,0.0,0.0,,0.0,0.0,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2007,Country or economy,Wind,False,0.662,0.057,9.421,0.552,0.01,0.31,0.006,0.0,0.0,0.009,9.063,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2007,Country or economy,Hydro,False,14.218,1.434,11.217,11.861,0.412,2.79,0.338,0.034,11.184,0.497,23.773,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2007,Country or economy,Bioenergy,False,0.0,0.0,,0.0,0.0,0.07,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2007,Country or economy,Coal,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2007,Country or economy,Gas,False,89.212,6.152,7.407,74.426,0.04,14.46,57.306,3.952,7.407,84.237,642.358,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2007,Country or economy,Other fossil,False,15.774,0.563,3.701,13.16,-0.462,0.0,10.379,0.37,3.697,15.257,657.981,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2007,Country or economy,Net imports,False,-0.563,-0.214,61.318,-0.47,-0.157,,0.0,0.0,,0.0,0.0,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2007,Country or economy,Wind and solar,True,0.664,0.058,9.571,0.554,0.011,0.31,0.006,0.0,0.0,0.009,9.036,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2007,Country or economy,"Hydro, bioenergy and other renewables",True,14.218,1.434,11.217,11.861,0.412,2.86,0.338,0.034,11.184,0.497,23.773,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2007,Country or economy,Renewables,True,14.881,1.49,11.127,12.415,0.422,3.17,0.344,0.034,10.968,0.506,23.117,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2007,Country or economy,Clean,True,14.881,1.49,11.127,12.415,0.422,3.17,0.344,0.034,10.968,0.506,23.117,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2007,Country or economy,Fossil,True,104.986,6.716,6.834,87.585,-0.422,14.46,67.685,4.322,6.821,99.494,644.705,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2007,Country or economy,Total generation,True,119.867,8.206,7.349,100.0,0.0,17.63,68.029,4.357,6.843,100.0,567.537,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2007,Country or economy,Demand,True,119.304,7.992,7.18,99.53,-0.157,,,,,,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2008,Country or economy,Solar,False,0.002,0.001,100.0,0.002,0.001,0.0,0.0,0.0,,0.0,0.0,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2008,Country or economy,Wind,False,0.93,0.268,40.483,0.722,0.17,0.4,0.009,0.003,50.0,0.012,9.677,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2008,Country or economy,Hydro,False,15.096,0.878,6.175,11.721,-0.14,2.8,0.359,0.021,6.213,0.491,23.781,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2008,Country or economy,Bioenergy,False,0.0,0.0,,0.0,0.0,0.07,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2008,Country or economy,Coal,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2008,Country or economy,Gas,False,94.857,5.645,6.328,73.651,-0.775,15.96,60.932,3.626,6.327,83.374,642.356,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2008,Country or economy,Other fossil,False,17.908,2.134,13.529,13.905,0.745,0.0,11.783,1.404,13.527,16.123,657.974,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2008,Country or economy,Net imports,False,-0.896,-0.333,59.147,-0.696,-0.226,,0.0,0.0,,0.0,0.0,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2008,Country or economy,Wind and solar,True,0.931,0.267,40.211,0.723,0.169,0.4,0.009,0.003,50.0,0.012,9.667,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2008,Country or economy,"Hydro, bioenergy and other renewables",True,15.096,0.878,6.175,11.721,-0.14,2.8699999999999997,0.359,0.021,6.213,0.491,23.781,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2008,Country or economy,Renewables,True,16.027,1.146,7.701,12.444,0.029,3.2699999999999996,0.368,0.024,6.977,0.504,22.961,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2008,Country or economy,Clean,True,16.027,1.146,7.701,12.444,0.029,3.2699999999999996,0.368,0.024,6.977,0.504,22.961,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2008,Country or economy,Fossil,True,112.765,7.779,7.41,87.556,-0.029,15.96,72.715,5.03,7.431,99.496,644.837,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2008,Country or economy,Total generation,True,128.792,8.925,7.446,100.0,0.0,19.23,73.083,5.054,7.429,100.0,567.45,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2008,Country or economy,Demand,True,127.896,8.592,7.202,99.304,-0.226,,,,,,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2009,Country or economy,Solar,False,0.002,0.0,0.0,0.001,-0.001,0.0,0.0,0.0,,0.0,0.0,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2009,Country or economy,Wind,False,1.037,0.107,11.505,0.772,0.05,0.44,0.01,0.001,11.111,0.013,9.643,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2009,Country or economy,Hydro,False,13.772,-1.324,-8.771,10.257,-1.464,2.8,0.327,-0.032,-8.914,0.423,23.744,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2009,Country or economy,Bioenergy,False,0.0,0.0,,0.0,0.0,0.07,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2009,Country or economy,Coal,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2009,Country or economy,Gas,False,98.739,3.882,4.092,73.539,-0.112,16.71,63.425,2.493,4.091,81.951,642.35,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2009,Country or economy,Other fossil,False,20.717,2.809,15.686,15.43,1.525,0.0,13.632,1.849,15.692,17.614,658.01,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2009,Country or economy,Net imports,False,-0.935,-0.039,4.353,-0.696,0.0,,0.0,0.0,,0.0,0.0,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2009,Country or economy,Wind and solar,True,1.039,0.108,11.6,0.774,0.051,0.44,0.01,0.001,11.111,0.013,9.625,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2009,Country or economy,"Hydro, bioenergy and other renewables",True,13.772,-1.324,-8.771,10.257,-1.464,2.8699999999999997,0.327,-0.032,-8.914,0.423,23.744,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2009,Country or economy,Renewables,True,14.812,-1.215,-7.581,11.032,-1.412,3.3099999999999996,0.337,-0.031,-8.424,0.435,22.752,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2009,Country or economy,Clean,True,14.812,-1.215,-7.581,11.032,-1.412,3.3099999999999996,0.337,-0.031,-8.424,0.435,22.752,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2009,Country or economy,Fossil,True,119.455,6.69,5.933,88.968,1.412,16.71,77.057,4.342,5.971,99.564,645.071,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2009,Country or economy,Total generation,True,134.267,5.475,4.251,100.0,0.0,20.020000000000003,77.394,4.311,5.899,100.0,576.419,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2009,Country or economy,Demand,True,133.332,5.436,4.25,99.303,-0.001,,,,,,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2010,Country or economy,Solar,False,0.025,0.023,1150.0,0.017,0.016,0.01,0.001,0.001,,0.001,40.0,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2010,Country or economy,Wind,False,1.409,0.372,35.873,0.976,0.204,0.56,0.013,0.003,30.0,0.015,9.226,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2010,Country or economy,Hydro,False,12.954,-0.818,-5.94,8.969,-1.288,2.8,0.308,-0.019,-5.81,0.366,23.776,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2010,Country or economy,Bioenergy,False,0.0,0.0,,0.0,0.0,0.07,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2010,Country or economy,Coal,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2010,Country or economy,Gas,False,110.103,11.364,11.509,76.232,2.693,20.41,70.725,7.3,11.51,84.028,642.353,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2010,Country or economy,Other fossil,False,19.94,-0.777,-3.751,13.806,-1.624,0.0,13.12,-0.512,-3.756,15.588,657.974,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2010,Country or economy,Net imports,False,-1.443,-0.508,54.332,-0.999,-0.303,,0.0,0.0,,0.0,0.0,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2010,Country or economy,Wind and solar,True,1.434,0.395,38.017,0.993,0.219,0.5700000000000001,0.015,0.005,50.0,0.018,10.46,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2010,Country or economy,"Hydro, bioenergy and other renewables",True,12.954,-0.818,-5.94,8.969,-1.288,2.8699999999999997,0.308,-0.019,-5.81,0.366,23.776,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2010,Country or economy,Renewables,True,14.389,-0.423,-2.856,9.962,-1.07,3.4399999999999995,0.322,-0.015,-4.451,0.383,22.378,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2010,Country or economy,Clean,True,14.389,-0.423,-2.856,9.962,-1.07,3.4399999999999995,0.322,-0.015,-4.451,0.383,22.378,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2010,Country or economy,Fossil,True,130.043,10.588,8.864,90.038,1.07,20.41,83.846,6.789,8.81,99.617,644.756,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2010,Country or economy,Total generation,True,144.432,10.165,7.571,100.0,0.0,23.85,84.168,6.774,8.753,100.0,582.752,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2010,Country or economy,Demand,True,142.989,9.657,7.243,99.001,-0.302,,,,,,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2011,Country or economy,Solar,False,0.245,0.22,880.0,0.164,0.147,0.03,0.012,0.011,1100.0,0.014,48.98,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2011,Country or economy,Wind,False,1.495,0.086,6.104,1.0,0.024,0.56,0.014,0.001,7.692,0.016,9.365,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2011,Country or economy,Hydro,False,12.99,0.036,0.278,8.685,-0.284,2.8,0.309,0.001,0.325,0.354,23.788,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2011,Country or economy,Bioenergy,False,0.0,0.0,,0.0,0.0,0.07,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2011,Country or economy,Coal,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2011,Country or economy,Gas,False,117.455,7.352,6.677,78.532,2.3,22.84,75.448,4.723,6.678,86.506,642.357,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2011,Country or economy,Other fossil,False,17.379,-2.561,-12.844,11.62,-2.186,0.0,11.435,-1.685,-12.843,13.111,657.978,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2011,Country or economy,Net imports,False,-1.577,-0.134,9.286,-1.054,-0.055,,0.0,0.0,,0.0,0.0,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2011,Country or economy,Wind and solar,True,1.739,0.305,21.269,1.163,0.17,0.5900000000000001,0.026,0.011,73.333,0.03,14.951,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2011,Country or economy,"Hydro, bioenergy and other renewables",True,12.99,0.036,0.278,8.685,-0.284,2.8699999999999997,0.309,0.001,0.325,0.354,23.788,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2011,Country or economy,Renewables,True,14.729,0.34,2.363,9.848,-0.114,3.4599999999999995,0.334,0.012,3.727,0.383,22.676,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2011,Country or economy,Clean,True,14.729,0.34,2.363,9.848,-0.114,3.4599999999999995,0.334,0.012,3.727,0.383,22.676,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2011,Country or economy,Fossil,True,134.833,4.79,3.683,90.151,0.113,22.84,86.883,3.037,3.622,99.617,644.375,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2011,Country or economy,Total generation,True,149.563,5.131,3.553,100.0,0.0,26.3,87.217,3.049,3.623,100.0,583.146,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2011,Country or economy,Demand,True,147.986,4.997,3.495,98.946,-0.055,,,,,,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2012,Country or economy,Solar,False,0.504,0.259,105.714,0.31,0.146,0.03,0.024,0.012,100.0,0.025,47.619,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2012,Country or economy,Wind,False,1.336,-0.159,-10.635,0.82,-0.18,0.56,0.013,-0.001,-7.143,0.014,9.731,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2012,Country or economy,Hydro,False,13.028,0.038,0.293,8.001,-0.684,2.8,0.31,0.001,0.324,0.324,23.795,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2012,Country or economy,Bioenergy,False,0.0,0.0,,0.0,0.0,0.07,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2012,Country or economy,Coal,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2012,Country or economy,Gas,False,126.555,9.1,7.748,77.722,-0.81,24.09,81.293,5.845,7.747,84.923,642.353,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2012,Country or economy,Other fossil,False,21.408,4.029,23.183,13.147,1.527,0.0,14.087,2.652,23.192,14.716,658.025,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2012,Country or economy,Net imports,False,-0.397,1.18,-74.826,-0.244,0.81,,0.0,0.0,,0.0,0.0,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2012,Country or economy,Wind and solar,True,1.84,0.101,5.808,1.13,-0.033,0.5900000000000001,0.037,0.011,42.308,0.039,20.109,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2012,Country or economy,"Hydro, bioenergy and other renewables",True,13.028,0.038,0.293,8.001,-0.684,2.8699999999999997,0.31,0.001,0.324,0.324,23.795,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2012,Country or economy,Renewables,True,14.868,0.139,0.944,9.131,-0.717,3.4599999999999995,0.346,0.012,3.593,0.361,23.271,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2012,Country or economy,Clean,True,14.868,0.139,0.944,9.131,-0.717,3.4599999999999995,0.346,0.012,3.593,0.361,23.271,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2012,Country or economy,Fossil,True,147.963,13.13,9.738,90.869,0.718,24.09,95.38,8.497,9.78,99.639,644.621,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2012,Country or economy,Total generation,True,162.831,13.268,8.871,100.0,0.0,27.55,95.726,8.509,9.756,100.0,587.886,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2012,Country or economy,Demand,True,162.434,14.448,9.763,99.756,0.81,,,,,,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2013,Country or economy,Solar,False,0.025,-0.479,-95.04,0.015,-0.295,0.03,0.001,-0.023,-95.833,0.001,40.0,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2013,Country or economy,Wind,False,1.577,0.241,18.039,0.955,0.135,0.56,0.015,0.002,15.385,0.015,9.512,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2013,Country or economy,Hydro,False,13.236,0.208,1.597,8.019,0.018,2.8,0.314,0.004,1.29,0.323,23.723,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2013,Country or economy,Bioenergy,False,0.0,0.0,,0.0,0.0,0.07,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2013,Country or economy,Coal,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2013,Country or economy,Gas,False,123.166,-3.389,-2.678,74.617,-3.105,24.74,79.117,-2.176,-2.677,81.353,642.361,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2013,Country or economy,Other fossil,False,27.059,5.651,26.397,16.393,3.246,0.0,17.805,3.718,26.393,18.308,658.007,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2013,Country or economy,Net imports,False,-0.399,-0.002,0.504,-0.242,0.002,,0.0,0.0,,0.0,0.0,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2013,Country or economy,Wind and solar,True,1.602,-0.238,-12.935,0.971,-0.159,0.5900000000000001,0.016,-0.021,-56.757,0.016,9.988,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2013,Country or economy,"Hydro, bioenergy and other renewables",True,13.236,0.208,1.597,8.019,0.018,2.8699999999999997,0.314,0.004,1.29,0.323,23.723,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2013,Country or economy,Renewables,True,14.839,-0.029,-0.195,8.99,-0.141,3.4599999999999995,0.331,-0.015,-4.335,0.34,22.306,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2013,Country or economy,Clean,True,14.839,-0.029,-0.195,8.99,-0.141,3.4599999999999995,0.331,-0.015,-4.335,0.34,22.306,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2013,Country or economy,Fossil,True,150.225,2.262,1.529,91.01,0.141,24.74,96.921,1.541,1.616,99.66,645.172,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2013,Country or economy,Total generation,True,165.064,2.233,1.371,100.0,0.0,28.2,97.252,1.526,1.594,100.0,589.178,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2013,Country or economy,Demand,True,164.665,2.231,1.373,99.758,0.002,,,,,,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2014,Country or economy,Solar,False,0.14,0.115,460.0,0.082,0.067,0.03,0.007,0.006,600.0,0.007,50.0,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2014,Country or economy,Wind,False,1.028,-0.549,-34.813,0.6,-0.355,0.56,0.01,-0.005,-33.333,0.01,9.728,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2014,Country or economy,Hydro,False,13.587,0.351,2.652,7.935,-0.084,2.8,0.323,0.009,2.866,0.319,23.773,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2014,Country or economy,Bioenergy,False,0.0,0.0,,0.0,0.0,0.07,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2014,Country or economy,Coal,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2014,Country or economy,Gas,False,124.64,1.474,1.197,72.789,-1.828,25.49,80.063,0.946,1.196,78.994,642.354,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2014,Country or economy,Other fossil,False,31.839,4.78,17.665,18.594,2.201,0.0,20.95,3.145,17.664,20.67,657.998,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2014,Country or economy,Net imports,False,-0.679,-0.28,70.175,-0.397,-0.155,,0.0,0.0,,0.0,0.0,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2014,Country or economy,Wind and solar,True,1.168,-0.434,-27.091,0.682,-0.289,0.5900000000000001,0.016,0.0,0.0,0.016,13.699,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2014,Country or economy,"Hydro, bioenergy and other renewables",True,13.587,0.351,2.652,7.935,-0.084,2.8699999999999997,0.323,0.009,2.866,0.319,23.773,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2014,Country or economy,Renewables,True,14.755,-0.084,-0.566,8.617,-0.373,3.4599999999999995,0.339,0.008,2.417,0.334,22.975,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2014,Country or economy,Clean,True,14.755,-0.084,-0.566,8.617,-0.373,3.4599999999999995,0.339,0.008,2.417,0.334,22.975,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2014,Country or economy,Fossil,True,156.48,6.255,4.164,91.384,0.374,25.49,101.014,4.093,4.223,99.666,645.539,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2014,Country or economy,Total generation,True,171.234,6.17,3.738,100.0,0.0,28.95,101.353,4.101,4.217,100.0,591.898,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2014,Country or economy,Demand,True,170.555,5.89,3.577,99.603,-0.155,,,,,,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2015,Country or economy,Solar,False,0.042,-0.098,-70.0,0.023,-0.059,0.04,0.002,-0.005,-71.429,0.002,47.619,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2015,Country or economy,Wind,False,1.895,0.867,84.339,1.042,0.442,0.75,0.018,0.008,80.0,0.017,9.499,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2015,Country or economy,Hydro,False,13.683,0.096,0.707,7.525,-0.41,2.8,0.325,0.002,0.619,0.302,23.752,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2015,Country or economy,Bioenergy,False,0.0,0.0,,0.0,0.0,0.07,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2015,Country or economy,Coal,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2015,Country or economy,Gas,False,129.807,5.167,4.146,71.387,-1.402,29.68,83.382,3.319,4.145,77.432,642.354,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2015,Country or economy,Other fossil,False,36.41,4.571,14.357,20.023,1.429,0.5,23.957,3.007,14.353,22.247,657.979,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2015,Country or economy,Net imports,False,-0.693,-0.014,2.062,-0.381,0.016,,0.0,0.0,,0.0,0.0,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2015,Country or economy,Wind and solar,True,1.937,0.769,65.839,1.065,0.383,0.79,0.02,0.004,25.0,0.019,10.325,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2015,Country or economy,"Hydro, bioenergy and other renewables",True,13.683,0.096,0.707,7.525,-0.41,2.8699999999999997,0.325,0.002,0.619,0.302,23.752,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2015,Country or economy,Renewables,True,15.62,0.865,5.862,8.59,-0.027,3.6599999999999997,0.345,0.006,1.77,0.32,22.087,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2015,Country or economy,Clean,True,15.62,0.865,5.862,8.59,-0.027,3.6599999999999997,0.345,0.006,1.77,0.32,22.087,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2015,Country or economy,Fossil,True,166.216,9.736,6.222,91.41,0.026,30.18,107.34,6.326,6.262,99.68,645.786,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2015,Country or economy,Total generation,True,181.836,10.602,6.192,100.0,0.0,33.839999999999996,107.685,6.332,6.247,100.0,592.209,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2015,Country or economy,Demand,True,181.143,10.588,6.208,99.619,0.016,,,,,,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2016,Country or economy,Solar,False,0.234,0.192,457.143,0.124,0.101,0.06,0.011,0.009,450.0,0.01,47.009,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2016,Country or economy,Wind,False,2.397,0.502,26.491,1.274,0.232,0.75,0.023,0.005,27.778,0.021,9.595,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2016,Country or economy,Hydro,False,13.198,-0.485,-3.545,7.013,-0.512,2.8,0.314,-0.011,-3.385,0.281,23.791,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2016,Country or economy,Bioenergy,False,0.0,0.0,,0.0,0.0,0.07,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2016,Country or economy,Coal,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2016,Country or economy,Gas,False,138.474,8.667,6.677,73.582,2.195,30.02,88.949,5.567,6.677,79.706,642.352,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2016,Country or economy,Other fossil,False,33.89,-2.52,-6.921,18.008,-2.015,0.79,22.299,-1.658,-6.921,19.982,657.982,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2016,Country or economy,Net imports,False,-0.268,0.425,-61.328,-0.142,0.239,,0.0,0.0,,0.0,0.0,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2016,Country or economy,Wind and solar,True,2.63,0.693,35.777,1.398,0.333,0.81,0.034,0.014,70.0,0.03,12.928,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2016,Country or economy,"Hydro, bioenergy and other renewables",True,13.198,-0.485,-3.545,7.013,-0.512,2.8699999999999997,0.314,-0.011,-3.385,0.281,23.791,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2016,Country or economy,Renewables,True,15.828,0.208,1.332,8.411,-0.179,3.6799999999999997,0.347,0.002,0.58,0.311,21.923,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2016,Country or economy,Clean,True,15.828,0.208,1.332,8.411,-0.179,3.6799999999999997,0.347,0.002,0.58,0.311,21.923,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2016,Country or economy,Fossil,True,172.363,6.147,3.698,91.589,0.179,30.81,111.249,3.909,3.642,99.689,645.434,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2016,Country or economy,Total generation,True,188.191,6.355,3.495,100.0,0.0,34.49,111.596,3.911,3.632,100.0,592.993,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2016,Country or economy,Demand,True,187.923,6.78,3.743,99.858,0.239,,,,,,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2017,Country or economy,Solar,False,0.603,0.369,157.692,0.312,0.188,0.18,0.029,0.018,163.636,0.025,48.093,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2017,Country or economy,Wind,False,2.11,-0.287,-11.973,1.092,-0.182,0.75,0.02,-0.003,-13.043,0.017,9.479,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2017,Country or economy,Hydro,False,12.788,-0.41,-3.107,6.619,-0.394,2.8,0.304,-0.01,-3.185,0.265,23.772,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2017,Country or economy,Bioenergy,False,0.0,0.0,,0.0,0.0,0.07,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2017,Country or economy,Coal,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2017,Country or economy,Gas,False,151.929,13.455,9.717,78.634,5.052,33.59,97.592,8.643,9.717,84.929,642.353,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2017,Country or economy,Other fossil,False,25.782,-8.108,-23.924,13.344,-4.664,0.79,16.965,-5.334,-23.92,14.764,658.017,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2017,Country or economy,Net imports,False,-0.344,-0.076,28.358,-0.178,-0.036,,0.0,0.0,,0.0,0.0,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2017,Country or economy,Wind and solar,True,2.712,0.082,3.118,1.404,0.006,0.9299999999999999,0.049,0.015,44.118,0.043,18.068,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2017,Country or economy,"Hydro, bioenergy and other renewables",True,12.788,-0.41,-3.107,6.619,-0.394,2.8699999999999997,0.304,-0.01,-3.185,0.265,23.772,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2017,Country or economy,Renewables,True,15.5,-0.328,-2.072,8.022,-0.389,3.8,0.353,0.006,1.729,0.307,22.774,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2017,Country or economy,Clean,True,15.5,-0.328,-2.072,8.022,-0.389,3.8,0.353,0.006,1.729,0.307,22.774,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2017,Country or economy,Fossil,True,177.711,5.348,3.103,91.978,0.389,34.38,114.557,3.308,2.974,99.693,644.625,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2017,Country or economy,Total generation,True,193.211,5.02,2.668,100.0,0.0,38.18,114.909,3.313,2.969,100.0,594.733,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2017,Country or economy,Demand,True,192.867,4.944,2.631,99.822,-0.036,,,,,,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2018,Country or economy,Solar,False,0.553,-0.05,-8.292,0.277,-0.035,0.76,0.026,-0.003,-10.345,0.022,47.016,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2018,Country or economy,Wind,False,2.987,0.877,41.564,1.498,0.406,1.13,0.028,0.008,40.0,0.024,9.374,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2018,Country or economy,Hydro,False,12.923,0.135,1.056,6.481,-0.138,2.83,0.307,0.003,0.987,0.26,23.756,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2018,Country or economy,Bioenergy,False,0.0,0.0,,0.0,0.0,0.07,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2018,Country or economy,Coal,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2018,Country or economy,Gas,False,167.185,15.256,10.042,83.845,5.211,49.24,107.392,9.8,10.042,90.92,642.354,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2018,Country or economy,Other fossil,False,15.75,-10.032,-38.911,7.899,-5.445,0.79,10.364,-6.601,-38.91,8.774,658.032,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2018,Country or economy,Net imports,False,-0.571,-0.227,65.988,-0.286,-0.108,,0.0,0.0,,0.0,0.0,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2018,Country or economy,Wind and solar,True,3.54,0.828,30.531,1.775,0.371,1.89,0.055,0.006,12.245,0.047,15.537,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2018,Country or economy,"Hydro, bioenergy and other renewables",True,12.923,0.135,1.056,6.481,-0.138,2.9,0.307,0.003,0.987,0.26,23.756,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2018,Country or economy,Renewables,True,16.464,0.964,6.219,8.257,0.235,4.79,0.362,0.009,2.55,0.306,21.987,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2018,Country or economy,Clean,True,16.464,0.964,6.219,8.257,0.235,4.79,0.362,0.009,2.55,0.306,21.987,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2018,Country or economy,Fossil,True,182.935,5.224,2.94,91.743,-0.235,50.03,117.756,3.199,2.792,99.694,643.704,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2018,Country or economy,Total generation,True,199.399,6.188,3.203,100.0,0.0,54.82,118.117,3.208,2.792,100.0,592.365,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2018,Country or economy,Demand,True,198.828,5.961,3.091,99.714,-0.108,,,,,,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2019,Country or economy,Solar,False,1.489,0.936,169.259,0.742,0.465,1.65,0.071,0.045,173.077,0.061,47.683,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2019,Country or economy,Wind,False,4.98,1.993,66.722,2.483,0.985,1.13,0.047,0.019,67.857,0.04,9.438,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2019,Country or economy,Hydro,False,13.121,0.198,1.532,6.542,0.061,2.83,0.312,0.005,1.629,0.267,23.779,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2019,Country or economy,Bioenergy,False,0.0,0.0,,0.0,0.0,0.08,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2019,Country or economy,Coal,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2019,Country or economy,Gas,False,171.818,4.633,2.771,85.668,1.823,52.21,110.368,2.976,2.771,94.475,642.354,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2019,Country or economy,Other fossil,False,9.156,-6.594,-41.867,4.565,-3.334,0.79,6.024,-4.34,-41.876,5.157,657.929,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2019,Country or economy,Net imports,False,-0.79,-0.219,38.354,-0.394,-0.108,,0.0,0.0,,0.0,0.0,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2019,Country or economy,Wind and solar,True,6.469,2.929,82.74,3.225,1.45,2.78,0.118,0.063,114.545,0.101,18.241,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2019,Country or economy,"Hydro, bioenergy and other renewables",True,13.121,0.198,1.532,6.542,0.061,2.91,0.312,0.005,1.629,0.267,23.779,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2019,Country or economy,Renewables,True,19.59,3.126,18.987,9.768,1.511,5.69,0.43,0.068,18.785,0.368,21.95,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2019,Country or economy,Clean,True,19.59,3.126,18.987,9.768,1.511,5.69,0.43,0.068,18.785,0.368,21.95,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2019,Country or economy,Fossil,True,180.973,-1.962,-1.073,90.233,-1.51,53.0,116.392,-1.364,-1.158,99.632,643.146,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2019,Country or economy,Total generation,True,200.563,1.164,0.584,100.0,0.0,58.69,116.822,-1.295,-1.096,100.0,582.47,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2019,Country or economy,Demand,True,199.773,0.945,0.475,99.606,-0.108,,,,,,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2020,Country or economy,Solar,False,4.453,2.964,199.06,2.242,1.5,1.64,0.212,0.141,198.592,0.188,47.608,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2020,Country or economy,Wind,False,5.232,0.252,5.06,2.634,0.151,1.38,0.05,0.003,6.383,0.044,9.557,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2020,Country or economy,Hydro,False,14.08,0.959,7.309,7.089,0.547,2.83,0.335,0.023,7.372,0.296,23.793,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2020,Country or economy,Bioenergy,False,0.0,0.0,,0.0,0.0,0.08,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2020,Country or economy,Coal,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2020,Country or economy,Gas,False,166.863,-4.955,-2.884,84.015,-1.653,52.96,107.185,-3.183,-2.884,94.826,642.353,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2020,Country or economy,Other fossil,False,7.983,-1.173,-12.811,4.019,-0.546,0.79,5.253,-0.771,-12.799,4.647,658.023,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2020,Country or economy,Net imports,False,-1.421,-0.631,79.873,-0.715,-0.321,,0.0,0.0,,0.0,0.0,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2020,Country or economy,Wind and solar,True,9.685,3.216,49.714,4.876,1.651,3.0199999999999996,0.261,0.143,121.186,0.231,26.949,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2020,Country or economy,"Hydro, bioenergy and other renewables",True,14.08,0.959,7.309,7.089,0.547,2.91,0.335,0.023,7.372,0.296,23.793,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2020,Country or economy,Renewables,True,23.764,4.174,21.307,11.965,2.197,5.93,0.596,0.166,38.605,0.527,25.08,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2020,Country or economy,Clean,True,23.764,4.174,21.307,11.965,2.197,5.93,0.596,0.166,38.605,0.527,25.08,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2020,Country or economy,Fossil,True,174.846,-6.127,-3.386,88.035,-2.198,53.75,112.438,-3.954,-3.397,99.473,643.069,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2020,Country or economy,Total generation,True,198.61,-1.953,-0.974,100.0,0.0,59.68,113.034,-3.788,-3.243,100.0,569.125,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2020,Country or economy,Demand,True,197.189,-2.584,-1.293,99.284,-0.322,,,,,,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2021,Country or economy,Solar,False,4.971,0.518,11.633,2.371,0.129,1.66,0.236,0.024,11.321,0.198,47.475,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2021,Country or economy,Wind,False,5.486,0.254,4.855,2.617,-0.017,1.64,0.052,0.002,4.0,0.044,9.479,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2021,Country or economy,Hydro,False,14.904,0.824,5.852,7.109,0.02,2.83,0.354,0.019,5.672,0.297,23.752,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2021,Country or economy,Bioenergy,False,0.0,0.0,,0.0,0.0,0.12,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2021,Country or economy,Coal,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2021,Country or economy,Gas,False,179.448,12.585,7.542,85.592,1.577,53.99,115.27,8.085,7.543,96.784,642.359,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2021,Country or economy,Other fossil,False,4.846,-3.137,-39.296,2.311,-1.708,0.79,3.189,-2.064,-39.292,2.678,658.069,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2021,Country or economy,Net imports,False,-1.467,-0.046,3.237,-0.7,0.015,,0.0,0.0,,0.0,0.0,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2021,Country or economy,Wind and solar,True,10.458,0.773,7.981,4.988,0.112,3.3,0.288,0.027,10.345,0.242,27.539,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2021,Country or economy,"Hydro, bioenergy and other renewables",True,14.904,0.824,5.852,7.109,0.02,2.95,0.354,0.019,5.672,0.297,23.752,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2021,Country or economy,Renewables,True,25.361,1.597,6.72,12.097,0.132,6.25,0.643,0.047,7.886,0.54,25.354,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2021,Country or economy,Clean,True,25.361,1.597,6.72,12.097,0.132,6.25,0.643,0.047,7.886,0.54,25.354,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2021,Country or economy,Fossil,True,184.294,9.448,5.404,87.903,-0.132,54.78,118.458,6.02,5.354,99.46,642.766,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2021,Country or economy,Total generation,True,209.656,11.046,5.562,100.0,0.0,61.029999999999994,119.101,6.067,5.367,100.0,568.078,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2021,Country or economy,Demand,True,208.189,11.0,5.578,99.301,0.017,,,,,,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2022,Country or economy,Solar,False,5.003,0.032,0.644,2.309,-0.062,1.69,0.238,0.002,0.847,0.193,47.571,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2022,Country or economy,Wind,False,5.897,0.411,7.492,2.721,0.104,1.64,0.056,0.004,7.692,0.045,9.496,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2022,Country or economy,Hydro,False,14.708,-0.196,-1.315,6.787,-0.322,2.83,0.349,-0.005,-1.412,0.283,23.729,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2022,Country or economy,Bioenergy,False,0.0,0.0,,0.0,0.0,0.12,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2022,Country or economy,Coal,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2022,Country or economy,Gas,False,183.066,3.618,2.016,84.475,-1.117,53.82,117.593,2.323,2.015,95.198,642.353,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2022,Country or economy,Other fossil,False,8.037,3.191,65.848,3.709,1.398,0.79,5.289,2.1,65.851,4.282,658.081,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2022,Country or economy,Net imports,False,-1.565,-0.098,6.68,-0.722,-0.022,,0.0,0.0,,0.0,0.0,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2022,Country or economy,Wind and solar,True,10.9,0.442,4.226,5.03,0.042,3.33,0.294,0.006,2.083,0.238,26.972,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2022,Country or economy,"Hydro, bioenergy and other renewables",True,14.708,-0.196,-1.315,6.787,-0.322,2.95,0.349,-0.005,-1.412,0.283,23.729,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2022,Country or economy,Renewables,True,25.607,0.246,0.97,11.816,-0.281,6.28,0.643,0.0,0.0,0.521,25.11,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2022,Country or economy,Clean,True,25.607,0.246,0.97,11.816,-0.281,6.28,0.643,0.0,0.0,0.521,25.11,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2022,Country or economy,Fossil,True,191.103,6.809,3.695,88.183,0.28,54.61,122.882,4.424,3.735,99.479,643.015,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2022,Country or economy,Total generation,True,216.711,7.055,3.365,100.0,0.0,60.88999999999999,123.525,4.424,3.714,100.0,569.999,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2022,Country or economy,Demand,True,215.146,6.957,3.342,99.278,-0.023,,,,,,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2023,Country or economy,Solar,False,4.982,-0.021,-0.42,2.245,-0.064,1.82,0.237,-0.001,-0.42,0.187,47.571,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2023,Country or economy,Wind,False,5.939,0.042,0.712,2.676,-0.045,1.89,0.057,0.001,1.786,0.045,9.598,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2023,Country or economy,Hydro,False,15.052,0.344,2.339,6.783,-0.004,2.83,0.358,0.009,2.579,0.282,23.784,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2023,Country or economy,Bioenergy,False,0.0,0.0,,0.0,0.0,0.13,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2023,Country or economy,Coal,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2023,Country or economy,Gas,False,179.383,-3.683,-2.012,80.833,-3.642,53.43,115.228,-2.365,-2.011,90.891,642.357,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2023,Country or economy,Other fossil,False,16.562,8.525,106.072,7.463,3.754,0.79,10.898,5.609,106.05,8.596,658.012,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2023,Country or economy,Net imports,False,-1.393,0.172,-10.99,-0.628,0.094,,0.0,0.0,,0.0,0.0,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2023,Country or economy,Wind and solar,True,10.921,0.021,0.193,4.921,-0.109,3.71,0.293,-0.001,-0.34,0.231,26.829,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2023,Country or economy,"Hydro, bioenergy and other renewables",True,15.052,0.344,2.339,6.783,-0.004,2.96,0.358,0.009,2.579,0.282,23.784,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2023,Country or economy,Renewables,True,25.973,0.366,1.429,11.704,-0.112,6.67,0.651,0.008,1.244,0.514,25.064,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2023,Country or economy,Clean,True,25.973,0.366,1.429,11.704,-0.112,6.67,0.651,0.008,1.244,0.514,25.064,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2023,Country or economy,Fossil,True,195.945,4.842,2.534,88.296,0.113,54.22,126.126,3.244,2.64,99.487,643.681,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2023,Country or economy,Total generation,True,221.918,5.207,2.403,100.0,0.0,60.89,126.776,3.251,2.632,100.0,571.274,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2023,Country or economy,Demand,True,220.525,5.379,2.5,99.372,0.094,,,,,,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2024,Country or economy,Solar,False,6.25,1.268,25.452,2.637,0.392,2.55,0.297,0.06,25.316,0.219,47.52,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2024,Country or economy,Wind,False,6.177,0.238,4.007,2.606,-0.07,2.2,0.059,0.002,3.509,0.044,9.552,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2024,Country or economy,Hydro,False,15.458,0.406,2.697,6.522,-0.261,2.83,0.367,0.009,2.514,0.271,23.742,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2024,Country or economy,Bioenergy,False,0.0,0.0,,0.0,0.0,0.13,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2024,Country or economy,Coal,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2024,Country or economy,Gas,False,185.137,5.754,3.208,78.115,-2.718,53.43,118.924,3.696,3.208,87.814,642.357,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2024,Country or economy,Other fossil,False,23.982,7.42,44.801,10.119,2.656,0.79,15.78,4.882,44.797,11.652,657.993,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2024,Country or economy,Net imports,False,-1.4,-0.007,0.503,-0.591,0.037,,0.0,0.0,,0.0,0.0,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2024,Country or economy,Wind and solar,True,12.427,1.506,13.79,5.243,0.322,4.75,0.356,0.063,21.502,0.263,28.647,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2024,Country or economy,"Hydro, bioenergy and other renewables",True,15.458,0.406,2.697,6.522,-0.261,2.96,0.367,0.009,2.514,0.271,23.742,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2024,Country or economy,Renewables,True,27.886,1.913,7.365,11.766,0.062,7.71,0.723,0.072,11.06,0.534,25.927,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2024,Country or economy,Clean,True,27.886,1.913,7.365,11.766,0.062,7.71,0.723,0.072,11.06,0.534,25.927,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2024,Country or economy,Fossil,True,209.119,13.174,6.723,88.234,-0.062,54.22,134.704,8.578,6.801,99.466,644.15,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2024,Country or economy,Total generation,True,237.005,15.087,6.798,100.0,0.0,61.93,135.427,8.651,6.824,100.0,571.41,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2024,Country or economy,Demand,True,235.605,15.08,6.838,99.409,0.037,,,,,,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2025,Country or economy,Solar,False,9.332,3.082,49.312,3.85,1.213,3.27,0.443,0.146,49.158,0.328,47.471,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2025,Country or economy,Wind,False,9.928,3.751,60.725,4.095,1.489,3.03,0.094,0.035,59.322,0.07,9.468,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2025,Country or economy,Hydro,False,14.84,-0.618,-3.998,6.122,-0.4,2.83,0.353,-0.014,-3.815,0.261,23.787,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2025,Country or economy,Bioenergy,False,0.0,0.0,,0.0,0.0,0.13,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2025,Country or economy,Coal,False,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2025,Country or economy,Gas,False,184.428,-0.709,-0.383,76.078,-2.037,53.43,118.468,-0.456,-0.383,87.703,642.354,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2025,Country or economy,Other fossil,False,23.89,-0.092,-0.384,9.855,-0.264,0.79,15.72,-0.06,-0.38,11.638,658.016,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2025,Country or economy,Net imports,False,-1.146,0.254,-18.143,-0.473,0.118,,0.0,0.0,,0.0,0.0,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2025,Country or economy,Wind and solar,True,19.26,6.833,54.985,7.945,2.702,6.3,0.538,0.182,51.124,0.398,27.934,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2025,Country or economy,"Hydro, bioenergy and other renewables",True,14.84,-0.618,-3.998,6.122,-0.4,2.96,0.353,-0.014,-3.815,0.261,23.787,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2025,Country or economy,Renewables,True,34.1,6.214,22.284,14.067,2.301,9.26,0.891,0.168,23.237,0.66,26.129,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2025,Country or economy,Clean,True,34.1,6.214,22.284,14.067,2.301,9.26,0.891,0.168,23.237,0.66,26.129,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2025,Country or economy,Fossil,True,208.318,-0.801,-0.383,85.933,-2.301,54.22,134.188,-0.516,-0.383,99.341,644.15,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2025,Country or economy,Total generation,True,242.418,5.413,2.284,100.0,0.0,63.480000000000004,135.079,-0.348,-0.257,100.0,557.215,Africa,Africa,False,False,False,False,False
+Egypt,EGY,2025,Country or economy,Demand,True,241.273,5.668,2.406,99.527,0.118,,,,,,,Africa,Africa,False,False,False,False,False
